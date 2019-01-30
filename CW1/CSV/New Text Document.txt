@@ -1,0 +1,1 @@
+- for mongodb do denormalise and embbed the data, need to thing about the best way to do this.
