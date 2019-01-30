@@ -110,7 +110,7 @@ TrackId,Name,AlbumId,MediaTypeId,GenreId,Composer,Milliseconds,Bytes,UnitPrice
 109,"#1 Zero",11,1,4,"Cornell, Commerford, Morello, Wilk",299102,9731988,0.99
 110,"The Curse",11,1,4,"Cornell, Commerford, Morello, Wilk",309786,10029406,0.99
 111,Money,12,1,5,"Berry Gordy, Jr./Janie Bradford",147591,2365897,0.99
-112,"Long Tall Sally",12,1,5,"Enotris Johnson/Little Richard/Robert \"Bumps\" Blackwell",106396,1707084,0.99
+112,"Long Tall Sally",12,1,5,"Enotris Johnson/Little Richard/Robert "Bumps" Blackwell",106396,1707084,0.99
 113,"Bad Boy",12,1,5,"Larry Williams",116088,1862126,0.99
 114,"Twist And Shout",12,1,5,"Bert Russell/Phil Medley",161123,2582553,0.99
 115,"Please Mr. Postman",12,1,5,"Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett",137639,2206986,0.99
