@@ -6,12 +6,13 @@ SELECT `track`.`TrackId`, `track`.`Name`, `track`.`AlbumId`, `track`.`MediaTypeI
 `playlisttrack`.`PlaylistId`, `playlisttrack`.`TrackId`,
 `playlist`.`PlaylistId`, `playlist`.`Name`
 FROM `chinook`.`track`
-left join album on track.TrackId=album.AlbumId
-left join artist on artist.ArtistId=album.AlbumId
-left join mediatype on track.MediaTypeId=mediatype.MediaTypeId
-left join genre on track.TrackId=genre.GenreId
-left join playlisttrack on playlisttrack.PlaylistId=track.TrackId
-left join playlist on playlist.PlaylistId=playlisttrack.PlaylistId;
+join album on track.TrackId=album.AlbumId
+join artist on artist.ArtistId=album.AlbumId
+join mediatype on track.MediaTypeId=mediatype.MediaTypeId
+join genre on track.TrackId=genre.GenreId
+join playlisttrack on playlisttrack.PlaylistId=track.TrackId
+join playlist on playlist.PlaylistId=playlisttrack.PlaylistId
+group by track.TrackId;
 ;
 # Can remove duplicating ID's or FK ID's and keep value
 # Join the playlist tracks togather
