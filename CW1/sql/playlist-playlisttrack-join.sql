@@ -5,6 +5,7 @@ SELECT
 `playlist`.`Name`
 FROM `chinook`.`playlist`
 left join playlisttrack on playlisttrack.PlaylistId=playlist.PlaylistId
-#group by playlist.Name;
+where playlisttrack.PlaylistId=playlist.PlaylistId
+order by playlisttrack.PlaylistId;
 
 ;
