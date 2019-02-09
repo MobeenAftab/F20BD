@@ -1,0 +1,1001 @@
+TrackId,Name,Composer,Milliseconds,Bytes,UnitPrice,Title,ArtistName,MediaType,Genre,PlaylistName
+1,For Those About To Rock (We Salute You),"Angus Young, Malcolm Young, Brian Johnson",343719,11170334,0.99,For Those About To Rock We Salute You,AC/DC,MPEG audio file,Rock,Music
+1,For Those About To Rock (We Salute You),"Angus Young, Malcolm Young, Brian Johnson",343719,11170334,0.99,For Those About To Rock We Salute You,AC/DC,MPEG audio file,Rock,Music
+1,For Those About To Rock (We Salute You),"Angus Young, Malcolm Young, Brian Johnson",343719,11170334,0.99,For Those About To Rock We Salute You,AC/DC,MPEG audio file,Rock,Heavy Metal Classic
+2,Balls to the Wall,NULL,342562,5510424,0.99,Balls to the Wall,Accept,Protected AAC audio file,Rock,Music
+2,Balls to the Wall,NULL,342562,5510424,0.99,Balls to the Wall,Accept,Protected AAC audio file,Rock,Music
+2,Balls to the Wall,NULL,342562,5510424,0.99,Balls to the Wall,Accept,Protected AAC audio file,Rock,Heavy Metal Classic
+3,Fast As a Shark,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman",230619,3990994,0.99,Restless and Wild,Aerosmith,Protected AAC audio file,Rock,Music
+3,Fast As a Shark,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman",230619,3990994,0.99,Restless and Wild,Aerosmith,Protected AAC audio file,Rock,90’s Music
+3,Fast As a Shark,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman",230619,3990994,0.99,Restless and Wild,Aerosmith,Protected AAC audio file,Rock,Music
+3,Fast As a Shark,"F. Baltes, S. Kaufman, U. Dirkscneider & W. Hoffman",230619,3990994,0.99,Restless and Wild,Aerosmith,Protected AAC audio file,Rock,Heavy Metal Classic
+4,Restless and Wild,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman",252051,4331779,0.99,Let There Be Rock,Alanis Morissette,Protected AAC audio file,Rock,Music
+4,Restless and Wild,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman",252051,4331779,0.99,Let There Be Rock,Alanis Morissette,Protected AAC audio file,Rock,90’s Music
+4,Restless and Wild,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman",252051,4331779,0.99,Let There Be Rock,Alanis Morissette,Protected AAC audio file,Rock,Music
+4,Restless and Wild,"F. Baltes, R.A. Smith-Diesel, S. Kaufman, U. Dirkscneider & W. Hoffman",252051,4331779,0.99,Let There Be Rock,Alanis Morissette,Protected AAC audio file,Rock,Heavy Metal Classic
+5,Princess of the Dawn,Deaffy & R.A. Smith-Diesel,375418,6290521,0.99,Big Ones,Alice In Chains,Protected AAC audio file,Rock,Music
+5,Princess of the Dawn,Deaffy & R.A. Smith-Diesel,375418,6290521,0.99,Big Ones,Alice In Chains,Protected AAC audio file,Rock,90’s Music
+5,Princess of the Dawn,Deaffy & R.A. Smith-Diesel,375418,6290521,0.99,Big Ones,Alice In Chains,Protected AAC audio file,Rock,Music
+5,Princess of the Dawn,Deaffy & R.A. Smith-Diesel,375418,6290521,0.99,Big Ones,Alice In Chains,Protected AAC audio file,Rock,Heavy Metal Classic
+6,Put The Finger On You,"Angus Young, Malcolm Young, Brian Johnson",205662,6713451,0.99,Jagged Little Pill,Antônio Carlos Jobim,MPEG audio file,Rock,Music
+6,Put The Finger On You,"Angus Young, Malcolm Young, Brian Johnson",205662,6713451,0.99,Jagged Little Pill,Antônio Carlos Jobim,MPEG audio file,Rock,Music
+7,Let's Get It Up,"Angus Young, Malcolm Young, Brian Johnson",233926,7636561,0.99,Facelift,Apocalyptica,MPEG audio file,Rock,Music
+7,Let's Get It Up,"Angus Young, Malcolm Young, Brian Johnson",233926,7636561,0.99,Facelift,Apocalyptica,MPEG audio file,Rock,Music
+8,Inject The Venom,"Angus Young, Malcolm Young, Brian Johnson",210834,6852860,0.99,Warner 25 Anos,Audioslave,MPEG audio file,Rock,Music
+8,Inject The Venom,"Angus Young, Malcolm Young, Brian Johnson",210834,6852860,0.99,Warner 25 Anos,Audioslave,MPEG audio file,Rock,Music
+9,Snowballed,"Angus Young, Malcolm Young, Brian Johnson",203102,6599424,0.99,Plays Metallica By Four Cellos,BackBeat,MPEG audio file,Rock,Music
+9,Snowballed,"Angus Young, Malcolm Young, Brian Johnson",203102,6599424,0.99,Plays Metallica By Four Cellos,BackBeat,MPEG audio file,Rock,Music
+10,Evil Walks,"Angus Young, Malcolm Young, Brian Johnson",263497,8611245,0.99,Audioslave,Billy Cobham,MPEG audio file,Rock,Music
+10,Evil Walks,"Angus Young, Malcolm Young, Brian Johnson",263497,8611245,0.99,Audioslave,Billy Cobham,MPEG audio file,Rock,Music
+11,C.O.D.,"Angus Young, Malcolm Young, Brian Johnson",199836,6566314,0.99,Out Of Exile,Black Label Society,MPEG audio file,Rock,Music
+11,C.O.D.,"Angus Young, Malcolm Young, Brian Johnson",199836,6566314,0.99,Out Of Exile,Black Label Society,MPEG audio file,Rock,Music
+12,Breaking The Rules,"Angus Young, Malcolm Young, Brian Johnson",263288,8596840,0.99,BackBeat Soundtrack,Black Sabbath,MPEG audio file,Rock,Music
+12,Breaking The Rules,"Angus Young, Malcolm Young, Brian Johnson",263288,8596840,0.99,BackBeat Soundtrack,Black Sabbath,MPEG audio file,Rock,Music
+13,Night Of The Long Knives,"Angus Young, Malcolm Young, Brian Johnson",205688,6706347,0.99,The Best Of Billy Cobham,Body Count,MPEG audio file,Rock,Music
+13,Night Of The Long Knives,"Angus Young, Malcolm Young, Brian Johnson",205688,6706347,0.99,The Best Of Billy Cobham,Body Count,MPEG audio file,Rock,Music
+14,Spellbound,"Angus Young, Malcolm Young, Brian Johnson",270863,8817038,0.99,Alcohol Fueled Brewtality Live! [Disc 1],Bruce Dickinson,MPEG audio file,Rock,Music
+14,Spellbound,"Angus Young, Malcolm Young, Brian Johnson",270863,8817038,0.99,Alcohol Fueled Brewtality Live! [Disc 1],Bruce Dickinson,MPEG audio file,Rock,Music
+15,Go Down,AC/DC,331180,10847611,0.99,Alcohol Fueled Brewtality Live! [Disc 2],Buddy Guy,MPEG audio file,Rock,Music
+15,Go Down,AC/DC,331180,10847611,0.99,Alcohol Fueled Brewtality Live! [Disc 2],Buddy Guy,MPEG audio file,Rock,Music
+16,Dog Eat Dog,AC/DC,215196,7032162,0.99,Black Sabbath,Caetano Veloso,MPEG audio file,Rock,Music
+16,Dog Eat Dog,AC/DC,215196,7032162,0.99,Black Sabbath,Caetano Veloso,MPEG audio file,Rock,Music
+17,Let There Be Rock,AC/DC,366654,12021261,0.99,Black Sabbath Vol. 4 (Remaster),Chico Buarque,MPEG audio file,Rock,Music
+17,Let There Be Rock,AC/DC,366654,12021261,0.99,Black Sabbath Vol. 4 (Remaster),Chico Buarque,MPEG audio file,Rock,Music
+18,Bad Boy Boogie,AC/DC,267728,8776140,0.99,Body Count,Chico Science & Nação Zumbi,MPEG audio file,Rock,Music
+18,Bad Boy Boogie,AC/DC,267728,8776140,0.99,Body Count,Chico Science & Nação Zumbi,MPEG audio file,Rock,Music
+19,Problem Child,AC/DC,325041,10617116,0.99,Chemical Wedding,Cidade Negra,MPEG audio file,Rock,Music
+19,Problem Child,AC/DC,325041,10617116,0.99,Chemical Wedding,Cidade Negra,MPEG audio file,Rock,Music
+20,Overdose,AC/DC,369319,12066294,0.99,The Best Of Buddy Guy - The Millenium Collection,Cláudio Zoli,MPEG audio file,Rock,Music
+20,Overdose,AC/DC,369319,12066294,0.99,The Best Of Buddy Guy - The Millenium Collection,Cláudio Zoli,MPEG audio file,Rock,Music
+21,Hell Ain't A Bad Place To Be,AC/DC,254380,8331286,0.99,Prenda Minha,Various Artists,MPEG audio file,Rock,Music
+21,Hell Ain't A Bad Place To Be,AC/DC,254380,8331286,0.99,Prenda Minha,Various Artists,MPEG audio file,Rock,Music
+22,Whole Lotta Rosie,AC/DC,323761,10547154,0.99,Sozinho Remix Ao Vivo,Led Zeppelin,MPEG audio file,Rock,Music
+22,Whole Lotta Rosie,AC/DC,323761,10547154,0.99,Sozinho Remix Ao Vivo,Led Zeppelin,MPEG audio file,Rock,Music
+23,Walk On Water,"Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw",295680,9719579,0.99,Minha Historia,Frank Zappa & Captain Beefheart,MPEG audio file,Rock,Music
+23,Walk On Water,"Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw",295680,9719579,0.99,Minha Historia,Frank Zappa & Captain Beefheart,MPEG audio file,Rock,90’s Music
+23,Walk On Water,"Steven Tyler, Joe Perry, Jack Blades, Tommy Shaw",295680,9719579,0.99,Minha Historia,Frank Zappa & Captain Beefheart,MPEG audio file,Rock,Music
+24,Love In An Elevator,"Steven Tyler, Joe Perry",321828,10552051,0.99,Afrociberdelia,Marcos Valle,MPEG audio file,Rock,Music
+24,Love In An Elevator,"Steven Tyler, Joe Perry",321828,10552051,0.99,Afrociberdelia,Marcos Valle,MPEG audio file,Rock,90’s Music
+24,Love In An Elevator,"Steven Tyler, Joe Perry",321828,10552051,0.99,Afrociberdelia,Marcos Valle,MPEG audio file,Rock,Music
+25,Rag Doll,"Steven Tyler, Joe Perry, Jim Vallance, Holly Knight",264698,8675345,0.99,Da Lama Ao Caos,Milton Nascimento & Bebeto,MPEG audio file,Rock,Music
+25,Rag Doll,"Steven Tyler, Joe Perry, Jim Vallance, Holly Knight",264698,8675345,0.99,Da Lama Ao Caos,Milton Nascimento & Bebeto,MPEG audio file,Rock,90’s Music
+25,Rag Doll,"Steven Tyler, Joe Perry, Jim Vallance, Holly Knight",264698,8675345,0.99,Da Lama Ao Caos,Milton Nascimento & Bebeto,MPEG audio file,Rock,Music
+26,What It Takes,"Steven Tyler, Joe Perry, Desmond Child",310622,10144730,0.99,Acústico MTV [Live],Azymuth,MPEG audio file,Rock,Music
+26,What It Takes,"Steven Tyler, Joe Perry, Desmond Child",310622,10144730,0.99,Acústico MTV [Live],Azymuth,MPEG audio file,Rock,90’s Music
+26,What It Takes,"Steven Tyler, Joe Perry, Desmond Child",310622,10144730,0.99,Acústico MTV [Live],Azymuth,MPEG audio file,Rock,Music
+27,Dude (Looks Like A Lady),"Steven Tyler, Joe Perry, Desmond Child",264855,8679940,0.99,Cidade Negra - Hits,Gilberto Gil,MPEG audio file,Rock,Music
+27,Dude (Looks Like A Lady),"Steven Tyler, Joe Perry, Desmond Child",264855,8679940,0.99,Cidade Negra - Hits,Gilberto Gil,MPEG audio file,Rock,90’s Music
+27,Dude (Looks Like A Lady),"Steven Tyler, Joe Perry, Desmond Child",264855,8679940,0.99,Cidade Negra - Hits,Gilberto Gil,MPEG audio file,Rock,Music
+28,Janie's Got A Gun,"Steven Tyler, Tom Hamilton",330736,10869391,0.99,Na Pista,João Gilberto,MPEG audio file,Rock,Music
+28,Janie's Got A Gun,"Steven Tyler, Tom Hamilton",330736,10869391,0.99,Na Pista,João Gilberto,MPEG audio file,Rock,90’s Music
+28,Janie's Got A Gun,"Steven Tyler, Tom Hamilton",330736,10869391,0.99,Na Pista,João Gilberto,MPEG audio file,Rock,Music
+29,Cryin',"Steven Tyler, Joe Perry, Taylor Rhodes",309263,10056995,0.99,Axé Bahia 2001,Bebel Gilberto,MPEG audio file,Rock,Music
+29,Cryin',"Steven Tyler, Joe Perry, Taylor Rhodes",309263,10056995,0.99,Axé Bahia 2001,Bebel Gilberto,MPEG audio file,Rock,90’s Music
+29,Cryin',"Steven Tyler, Joe Perry, Taylor Rhodes",309263,10056995,0.99,Axé Bahia 2001,Bebel Gilberto,MPEG audio file,Rock,Music
+30,Amazing,"Steven Tyler, Richie Supa",356519,11616195,0.99,BBC Sessions [Disc 1] [Live],Jorge Vercilo,MPEG audio file,Rock,Music
+30,Amazing,"Steven Tyler, Richie Supa",356519,11616195,0.99,BBC Sessions [Disc 1] [Live],Jorge Vercilo,MPEG audio file,Rock,90’s Music
+30,Amazing,"Steven Tyler, Richie Supa",356519,11616195,0.99,BBC Sessions [Disc 1] [Live],Jorge Vercilo,MPEG audio file,Rock,Music
+31,Blind Man,"Steven Tyler, Joe Perry, Taylor Rhodes",240718,7877453,0.99,Bongo Fury,Baby Consuelo,MPEG audio file,Rock,Music
+31,Blind Man,"Steven Tyler, Joe Perry, Taylor Rhodes",240718,7877453,0.99,Bongo Fury,Baby Consuelo,MPEG audio file,Rock,90’s Music
+31,Blind Man,"Steven Tyler, Joe Perry, Taylor Rhodes",240718,7877453,0.99,Bongo Fury,Baby Consuelo,MPEG audio file,Rock,Music
+32,Deuces Are Wild,"Steven Tyler, Jim Vallance",215875,7074167,0.99,Carnaval 2001,Ney Matogrosso,MPEG audio file,Rock,Music
+32,Deuces Are Wild,"Steven Tyler, Jim Vallance",215875,7074167,0.99,Carnaval 2001,Ney Matogrosso,MPEG audio file,Rock,90’s Music
+32,Deuces Are Wild,"Steven Tyler, Jim Vallance",215875,7074167,0.99,Carnaval 2001,Ney Matogrosso,MPEG audio file,Rock,Music
+33,The Other Side,"Steven Tyler, Jim Vallance",244375,7983270,0.99,Chill: Brazil (Disc 1),Luiz Melodia,MPEG audio file,Rock,Music
+33,The Other Side,"Steven Tyler, Jim Vallance",244375,7983270,0.99,Chill: Brazil (Disc 1),Luiz Melodia,MPEG audio file,Rock,90’s Music
+33,The Other Side,"Steven Tyler, Jim Vallance",244375,7983270,0.99,Chill: Brazil (Disc 1),Luiz Melodia,MPEG audio file,Rock,Music
+34,Crazy,"Steven Tyler, Joe Perry, Desmond Child",316656,10402398,0.99,Chill: Brazil (Disc 2),Nando Reis,MPEG audio file,Rock,Music
+34,Crazy,"Steven Tyler, Joe Perry, Desmond Child",316656,10402398,0.99,Chill: Brazil (Disc 2),Nando Reis,MPEG audio file,Rock,90’s Music
+34,Crazy,"Steven Tyler, Joe Perry, Desmond Child",316656,10402398,0.99,Chill: Brazil (Disc 2),Nando Reis,MPEG audio file,Rock,Music
+35,Eat The Rich,"Steven Tyler, Joe Perry, Jim Vallance",251036,8262039,0.99,Garage Inc. (Disc 1),Pedro Luís & A Parede,MPEG audio file,Rock,Music
+35,Eat The Rich,"Steven Tyler, Joe Perry, Jim Vallance",251036,8262039,0.99,Garage Inc. (Disc 1),Pedro Luís & A Parede,MPEG audio file,Rock,90’s Music
+35,Eat The Rich,"Steven Tyler, Joe Perry, Jim Vallance",251036,8262039,0.99,Garage Inc. (Disc 1),Pedro Luís & A Parede,MPEG audio file,Rock,Music
+36,Angel,"Steven Tyler, Desmond Child",307617,9989331,0.99,Greatest Hits II,O Rappa,MPEG audio file,Rock,Music
+36,Angel,"Steven Tyler, Desmond Child",307617,9989331,0.99,Greatest Hits II,O Rappa,MPEG audio file,Rock,90’s Music
+36,Angel,"Steven Tyler, Desmond Child",307617,9989331,0.99,Greatest Hits II,O Rappa,MPEG audio file,Rock,Music
+37,Livin' On The Edge,"Steven Tyler, Joe Perry, Mark Hudson",381231,12374569,0.99,Greatest Kiss,Ed Motta,MPEG audio file,Rock,Music
+37,Livin' On The Edge,"Steven Tyler, Joe Perry, Mark Hudson",381231,12374569,0.99,Greatest Kiss,Ed Motta,MPEG audio file,Rock,90’s Music
+37,Livin' On The Edge,"Steven Tyler, Joe Perry, Mark Hudson",381231,12374569,0.99,Greatest Kiss,Ed Motta,MPEG audio file,Rock,Music
+38,All I Really Want,Alanis Morissette & Glenn Ballard,284891,9375567,0.99,Heart of the Night,Banda Black Rio,MPEG audio file,Rock,Music
+38,All I Really Want,Alanis Morissette & Glenn Ballard,284891,9375567,0.99,Heart of the Night,Banda Black Rio,MPEG audio file,Rock,90’s Music
+38,All I Really Want,Alanis Morissette & Glenn Ballard,284891,9375567,0.99,Heart of the Night,Banda Black Rio,MPEG audio file,Rock,Music
+39,You Oughta Know,Alanis Morissette & Glenn Ballard,249234,8196916,0.99,International Superhits,Fernanda Porto,MPEG audio file,Rock,Music
+39,You Oughta Know,Alanis Morissette & Glenn Ballard,249234,8196916,0.99,International Superhits,Fernanda Porto,MPEG audio file,Rock,90’s Music
+39,You Oughta Know,Alanis Morissette & Glenn Ballard,249234,8196916,0.99,International Superhits,Fernanda Porto,MPEG audio file,Rock,Music
+40,Perfect,Alanis Morissette & Glenn Ballard,188133,6145404,0.99,Into The Light,Os Cariocas,MPEG audio file,Rock,Music
+40,Perfect,Alanis Morissette & Glenn Ballard,188133,6145404,0.99,Into The Light,Os Cariocas,MPEG audio file,Rock,90’s Music
+40,Perfect,Alanis Morissette & Glenn Ballard,188133,6145404,0.99,Into The Light,Os Cariocas,MPEG audio file,Rock,Music
+41,Hand In My Pocket,Alanis Morissette & Glenn Ballard,221570,7224246,0.99,Meus Momentos,Elis Regina,MPEG audio file,Rock,Music
+41,Hand In My Pocket,Alanis Morissette & Glenn Ballard,221570,7224246,0.99,Meus Momentos,Elis Regina,MPEG audio file,Rock,90’s Music
+41,Hand In My Pocket,Alanis Morissette & Glenn Ballard,221570,7224246,0.99,Meus Momentos,Elis Regina,MPEG audio file,Rock,Music
+42,Right Through You,Alanis Morissette & Glenn Ballard,176117,5793082,0.99,Minha História,Milton Nascimento,MPEG audio file,Rock,Music
+42,Right Through You,Alanis Morissette & Glenn Ballard,176117,5793082,0.99,Minha História,Milton Nascimento,MPEG audio file,Rock,90’s Music
+42,Right Through You,Alanis Morissette & Glenn Ballard,176117,5793082,0.99,Minha História,Milton Nascimento,MPEG audio file,Rock,Music
+43,Forgiven,Alanis Morissette & Glenn Ballard,300355,9753256,0.99,MK III The Final Concerts [Disc 1],A Cor Do Som,MPEG audio file,Rock,Music
+43,Forgiven,Alanis Morissette & Glenn Ballard,300355,9753256,0.99,MK III The Final Concerts [Disc 1],A Cor Do Som,MPEG audio file,Rock,90’s Music
+43,Forgiven,Alanis Morissette & Glenn Ballard,300355,9753256,0.99,MK III The Final Concerts [Disc 1],A Cor Do Som,MPEG audio file,Rock,Music
+44,You Learn,Alanis Morissette & Glenn Ballard,239699,7824837,0.99,Physical Graffiti [Disc 1],Kid Abelha,MPEG audio file,Rock,Music
+44,You Learn,Alanis Morissette & Glenn Ballard,239699,7824837,0.99,Physical Graffiti [Disc 1],Kid Abelha,MPEG audio file,Rock,90’s Music
+44,You Learn,Alanis Morissette & Glenn Ballard,239699,7824837,0.99,Physical Graffiti [Disc 1],Kid Abelha,MPEG audio file,Rock,Music
+45,Head Over Feet,Alanis Morissette & Glenn Ballard,267493,8758008,0.99,Sambas De Enredo 2001,Sandra De Sá,MPEG audio file,Rock,Music
+45,Head Over Feet,Alanis Morissette & Glenn Ballard,267493,8758008,0.99,Sambas De Enredo 2001,Sandra De Sá,MPEG audio file,Rock,90’s Music
+45,Head Over Feet,Alanis Morissette & Glenn Ballard,267493,8758008,0.99,Sambas De Enredo 2001,Sandra De Sá,MPEG audio file,Rock,Music
+46,Mary Jane,Alanis Morissette & Glenn Ballard,280607,9163588,0.99,Supernatural,Jorge Ben,MPEG audio file,Rock,Music
+46,Mary Jane,Alanis Morissette & Glenn Ballard,280607,9163588,0.99,Supernatural,Jorge Ben,MPEG audio file,Rock,90’s Music
+46,Mary Jane,Alanis Morissette & Glenn Ballard,280607,9163588,0.99,Supernatural,Jorge Ben,MPEG audio file,Rock,Music
+47,Ironic,Alanis Morissette & Glenn Ballard,229825,7598866,0.99,The Best of Ed Motta,Hermeto Pascoal,MPEG audio file,Rock,Music
+47,Ironic,Alanis Morissette & Glenn Ballard,229825,7598866,0.99,The Best of Ed Motta,Hermeto Pascoal,MPEG audio file,Rock,90’s Music
+47,Ironic,Alanis Morissette & Glenn Ballard,229825,7598866,0.99,The Best of Ed Motta,Hermeto Pascoal,MPEG audio file,Rock,Music
+48,Not The Doctor,Alanis Morissette & Glenn Ballard,227631,7604601,0.99,The Essential Miles Davis [Disc 1],Barão Vermelho,MPEG audio file,Rock,Music
+48,Not The Doctor,Alanis Morissette & Glenn Ballard,227631,7604601,0.99,The Essential Miles Davis [Disc 1],Barão Vermelho,MPEG audio file,Rock,90’s Music
+48,Not The Doctor,Alanis Morissette & Glenn Ballard,227631,7604601,0.99,The Essential Miles Davis [Disc 1],Barão Vermelho,MPEG audio file,Rock,Music
+49,Wake Up,Alanis Morissette & Glenn Ballard,293485,9703359,0.99,The Essential Miles Davis [Disc 2],"Edson, DJ Marky & DJ Patife Featuring Fernanda Porto",MPEG audio file,Rock,Music
+49,Wake Up,Alanis Morissette & Glenn Ballard,293485,9703359,0.99,The Essential Miles Davis [Disc 2],"Edson, DJ Marky & DJ Patife Featuring Fernanda Porto",MPEG audio file,Rock,90’s Music
+49,Wake Up,Alanis Morissette & Glenn Ballard,293485,9703359,0.99,The Essential Miles Davis [Disc 2],"Edson, DJ Marky & DJ Patife Featuring Fernanda Porto",MPEG audio file,Rock,Music
+50,You Oughta Know (Alternate),Alanis Morissette & Glenn Ballard,491885,16008629,0.99,The Final Concerts (Disc 2),Metallica,MPEG audio file,Rock,Music
+50,You Oughta Know (Alternate),Alanis Morissette & Glenn Ballard,491885,16008629,0.99,The Final Concerts (Disc 2),Metallica,MPEG audio file,Rock,90’s Music
+50,You Oughta Know (Alternate),Alanis Morissette & Glenn Ballard,491885,16008629,0.99,The Final Concerts (Disc 2),Metallica,MPEG audio file,Rock,Music
+51,We Die Young,Jerry Cantrell,152084,4925362,0.99,Up An' Atom,Queen,MPEG audio file,Rock,Music
+51,We Die Young,Jerry Cantrell,152084,4925362,0.99,Up An' Atom,Queen,MPEG audio file,Rock,90’s Music
+51,We Die Young,Jerry Cantrell,152084,4925362,0.99,Up An' Atom,Queen,MPEG audio file,Rock,Music
+52,Man In The Box,"Jerry Cantrell, Layne Staley",286641,9310272,0.99,Vinícius De Moraes - Sem Limite,Kiss,MPEG audio file,Rock,Music
+52,Man In The Box,"Jerry Cantrell, Layne Staley",286641,9310272,0.99,Vinícius De Moraes - Sem Limite,Kiss,MPEG audio file,Rock,90’s Music
+52,Man In The Box,"Jerry Cantrell, Layne Staley",286641,9310272,0.99,Vinícius De Moraes - Sem Limite,Kiss,MPEG audio file,Rock,Music
+52,Man In The Box,"Jerry Cantrell, Layne Staley",286641,9310272,0.99,Vinícius De Moraes - Sem Limite,Kiss,MPEG audio file,Rock,Grunge
+53,Sea Of Sorrow,Jerry Cantrell,349831,11316328,0.99,Vozes do MPB,Spyro Gyra,MPEG audio file,Rock,Music
+53,Sea Of Sorrow,Jerry Cantrell,349831,11316328,0.99,Vozes do MPB,Spyro Gyra,MPEG audio file,Rock,90’s Music
+53,Sea Of Sorrow,Jerry Cantrell,349831,11316328,0.99,Vozes do MPB,Spyro Gyra,MPEG audio file,Rock,Music
+54,Bleed The Freak,Jerry Cantrell,241946,7847716,0.99,"Chronicle, Vol. 1",Green Day,MPEG audio file,Rock,Music
+54,Bleed The Freak,Jerry Cantrell,241946,7847716,0.99,"Chronicle, Vol. 1",Green Day,MPEG audio file,Rock,90’s Music
+54,Bleed The Freak,Jerry Cantrell,241946,7847716,0.99,"Chronicle, Vol. 1",Green Day,MPEG audio file,Rock,Music
+55,I Can't Remember,"Jerry Cantrell, Layne Staley",222955,7302550,0.99,"Chronicle, Vol. 2",David Coverdale,MPEG audio file,Rock,Music
+55,I Can't Remember,"Jerry Cantrell, Layne Staley",222955,7302550,0.99,"Chronicle, Vol. 2",David Coverdale,MPEG audio file,Rock,90’s Music
+55,I Can't Remember,"Jerry Cantrell, Layne Staley",222955,7302550,0.99,"Chronicle, Vol. 2",David Coverdale,MPEG audio file,Rock,Music
+56,"Love, Hate, Love","Jerry Cantrell, Layne Staley",387134,12575396,0.99,Cássia Eller - Coleção Sem Limite [Disc 2],Gonzaguinha,MPEG audio file,Rock,Music
+56,"Love, Hate, Love","Jerry Cantrell, Layne Staley",387134,12575396,0.99,Cássia Eller - Coleção Sem Limite [Disc 2],Gonzaguinha,MPEG audio file,Rock,90’s Music
+56,"Love, Hate, Love","Jerry Cantrell, Layne Staley",387134,12575396,0.99,Cássia Eller - Coleção Sem Limite [Disc 2],Gonzaguinha,MPEG audio file,Rock,Music
+57,It Ain't Like That,"Jerry Cantrell, Michael Starr, Sean Kinney",277577,8993793,0.99,Cássia Eller - Sem Limite [Disc 1],Os Mutantes,MPEG audio file,Rock,Music
+57,It Ain't Like That,"Jerry Cantrell, Michael Starr, Sean Kinney",277577,8993793,0.99,Cássia Eller - Sem Limite [Disc 1],Os Mutantes,MPEG audio file,Rock,90’s Music
+57,It Ain't Like That,"Jerry Cantrell, Michael Starr, Sean Kinney",277577,8993793,0.99,Cássia Eller - Sem Limite [Disc 1],Os Mutantes,MPEG audio file,Rock,Music
+58,Sunshine,Jerry Cantrell,284969,9216057,0.99,Come Taste The Band,Deep Purple,MPEG audio file,Rock,Music
+58,Sunshine,Jerry Cantrell,284969,9216057,0.99,Come Taste The Band,Deep Purple,MPEG audio file,Rock,90’s Music
+58,Sunshine,Jerry Cantrell,284969,9216057,0.99,Come Taste The Band,Deep Purple,MPEG audio file,Rock,Music
+59,Put You Down,Jerry Cantrell,196231,6420530,0.99,Deep Purple In Rock,Santana,MPEG audio file,Rock,Music
+59,Put You Down,Jerry Cantrell,196231,6420530,0.99,Deep Purple In Rock,Santana,MPEG audio file,Rock,90’s Music
+59,Put You Down,Jerry Cantrell,196231,6420530,0.99,Deep Purple In Rock,Santana,MPEG audio file,Rock,Music
+60,Confusion,"Jerry Cantrell, Michael Starr, Layne Staley",344163,11183647,0.99,Fireball,Santana Feat. Dave Matthews,MPEG audio file,Rock,Music
+60,Confusion,"Jerry Cantrell, Michael Starr, Layne Staley",344163,11183647,0.99,Fireball,Santana Feat. Dave Matthews,MPEG audio file,Rock,90’s Music
+60,Confusion,"Jerry Cantrell, Michael Starr, Layne Staley",344163,11183647,0.99,Fireball,Santana Feat. Dave Matthews,MPEG audio file,Rock,Music
+61,I Know Somethin (Bout You),Jerry Cantrell,261955,8497788,0.99,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Santana Feat. Everlast,MPEG audio file,Rock,Music
+61,I Know Somethin (Bout You),Jerry Cantrell,261955,8497788,0.99,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Santana Feat. Everlast,MPEG audio file,Rock,90’s Music
+61,I Know Somethin (Bout You),Jerry Cantrell,261955,8497788,0.99,Knocking at Your Back Door: The Best Of Deep Purple in the 80's,Santana Feat. Everlast,MPEG audio file,Rock,Music
+62,Real Thing,"Jerry Cantrell, Layne Staley",243879,7937731,0.99,Machine Head,Santana Feat. Rob Thomas,MPEG audio file,Rock,Music
+62,Real Thing,"Jerry Cantrell, Layne Staley",243879,7937731,0.99,Machine Head,Santana Feat. Rob Thomas,MPEG audio file,Rock,90’s Music
+62,Real Thing,"Jerry Cantrell, Layne Staley",243879,7937731,0.99,Machine Head,Santana Feat. Rob Thomas,MPEG audio file,Rock,Music
+63,Desafinado,NULL,185338,5990473,0.99,Purpendicular,Santana Feat. Lauryn Hill & Cee-Lo,MPEG audio file,Jazz,Music
+63,Desafinado,NULL,185338,5990473,0.99,Purpendicular,Santana Feat. Lauryn Hill & Cee-Lo,MPEG audio file,Jazz,Music
+64,Garota De Ipanema,NULL,285048,9348428,0.99,Slaves And Masters,Santana Feat. The Project G&B,MPEG audio file,Jazz,Music
+64,Garota De Ipanema,NULL,285048,9348428,0.99,Slaves And Masters,Santana Feat. The Project G&B,MPEG audio file,Jazz,Music
+65,Samba De Uma Nota Só (One Note Samba),NULL,137273,4535401,0.99,Stormbringer,Santana Feat. Maná,MPEG audio file,Jazz,Music
+65,Samba De Uma Nota Só (One Note Samba),NULL,137273,4535401,0.99,Stormbringer,Santana Feat. Maná,MPEG audio file,Jazz,Music
+66,Por Causa De Você,NULL,169900,5536496,0.99,The Battle Rages On,Santana Feat. Eagle-Eye Cherry,MPEG audio file,Jazz,Music
+66,Por Causa De Você,NULL,169900,5536496,0.99,The Battle Rages On,Santana Feat. Eagle-Eye Cherry,MPEG audio file,Jazz,Music
+67,Ligia,NULL,251977,8226934,0.99,Vault: Def Leppard's Greatest Hits,Santana Feat. Eric Clapton,MPEG audio file,Jazz,Music
+67,Ligia,NULL,251977,8226934,0.99,Vault: Def Leppard's Greatest Hits,Santana Feat. Eric Clapton,MPEG audio file,Jazz,Music
+68,Fotografia,NULL,129227,4198774,0.99,Outbreak,Miles Davis,MPEG audio file,Jazz,Music
+68,Fotografia,NULL,129227,4198774,0.99,Outbreak,Miles Davis,MPEG audio file,Jazz,Music
+69,Dindi (Dindi),NULL,253178,8149148,0.99,Djavan Ao Vivo - Vol. 02,Gene Krupa,MPEG audio file,Jazz,Music
+69,Dindi (Dindi),NULL,253178,8149148,0.99,Djavan Ao Vivo - Vol. 02,Gene Krupa,MPEG audio file,Jazz,Music
+70,Se Todos Fossem Iguais A Você (Instrumental),NULL,134948,4393377,0.99,Djavan Ao Vivo - Vol. 1,Toquinho & Vinícius,MPEG audio file,Jazz,Music
+70,Se Todos Fossem Iguais A Você (Instrumental),NULL,134948,4393377,0.99,Djavan Ao Vivo - Vol. 1,Toquinho & Vinícius,MPEG audio file,Jazz,Music
+71,Falando De Amor,NULL,219663,7121735,0.99,Elis Regina-Minha História,Vinícius De Moraes & Baden Powell,MPEG audio file,Jazz,Music
+71,Falando De Amor,NULL,219663,7121735,0.99,Elis Regina-Minha História,Vinícius De Moraes & Baden Powell,MPEG audio file,Jazz,Music
+72,Angela,NULL,169508,5574957,0.99,The Cream Of Clapton,Vinícius De Moraes,MPEG audio file,Jazz,Music
+72,Angela,NULL,169508,5574957,0.99,The Cream Of Clapton,Vinícius De Moraes,MPEG audio file,Jazz,Music
+73,Corcovado (Quiet Nights Of Quiet Stars),NULL,205662,6687994,0.99,Unplugged,Vinícius E Qurteto Em Cy,MPEG audio file,Jazz,Music
+73,Corcovado (Quiet Nights Of Quiet Stars),NULL,205662,6687994,0.99,Unplugged,Vinícius E Qurteto Em Cy,MPEG audio file,Jazz,Music
+74,Outra Vez,NULL,126511,4110053,0.99,Album Of The Year,Vinícius E Odette Lara,MPEG audio file,Jazz,Music
+74,Outra Vez,NULL,126511,4110053,0.99,Album Of The Year,Vinícius E Odette Lara,MPEG audio file,Jazz,Music
+75,O Boto (Bôto),NULL,366837,12089673,0.99,Angel Dust,"Vinicius, Toquinho & Quarteto Em Cy",MPEG audio file,Jazz,Music
+75,O Boto (Bôto),NULL,366837,12089673,0.99,Angel Dust,"Vinicius, Toquinho & Quarteto Em Cy",MPEG audio file,Jazz,Music
+76,"Canta, Canta Mais",NULL,271856,8719426,0.99,King For A Day Fool For A Lifetime,Creedence Clearwater Revival,MPEG audio file,Jazz,Music
+76,"Canta, Canta Mais",NULL,271856,8719426,0.99,King For A Day Fool For A Lifetime,Creedence Clearwater Revival,MPEG audio file,Jazz,Music
+77,Enter Sandman,Apocalyptica,221701,7286305,0.99,The Real Thing,Cássia Eller,MPEG audio file,Metal,Music
+77,Enter Sandman,Apocalyptica,221701,7286305,0.99,The Real Thing,Cássia Eller,MPEG audio file,Metal,90’s Music
+77,Enter Sandman,Apocalyptica,221701,7286305,0.99,The Real Thing,Cássia Eller,MPEG audio file,Metal,Music
+78,Master Of Puppets,Apocalyptica,436453,14375310,0.99,Deixa Entrar,Def Leppard,MPEG audio file,Metal,Music
+78,Master Of Puppets,Apocalyptica,436453,14375310,0.99,Deixa Entrar,Def Leppard,MPEG audio file,Metal,90’s Music
+78,Master Of Puppets,Apocalyptica,436453,14375310,0.99,Deixa Entrar,Def Leppard,MPEG audio file,Metal,Music
+79,Harvester Of Sorrow,Apocalyptica,374543,12372536,0.99,In Your Honor [Disc 1],Dennis Chambers,MPEG audio file,Metal,Music
+79,Harvester Of Sorrow,Apocalyptica,374543,12372536,0.99,In Your Honor [Disc 1],Dennis Chambers,MPEG audio file,Metal,90’s Music
+79,Harvester Of Sorrow,Apocalyptica,374543,12372536,0.99,In Your Honor [Disc 1],Dennis Chambers,MPEG audio file,Metal,Music
+80,The Unforgiven,Apocalyptica,322925,10422447,0.99,In Your Honor [Disc 2],Djavan,MPEG audio file,Metal,Music
+80,The Unforgiven,Apocalyptica,322925,10422447,0.99,In Your Honor [Disc 2],Djavan,MPEG audio file,Metal,90’s Music
+80,The Unforgiven,Apocalyptica,322925,10422447,0.99,In Your Honor [Disc 2],Djavan,MPEG audio file,Metal,Music
+81,Sad But True,Apocalyptica,288208,9405526,0.99,One By One,Eric Clapton,MPEG audio file,Metal,Music
+81,Sad But True,Apocalyptica,288208,9405526,0.99,One By One,Eric Clapton,MPEG audio file,Metal,90’s Music
+81,Sad But True,Apocalyptica,288208,9405526,0.99,One By One,Eric Clapton,MPEG audio file,Metal,Music
+82,Creeping Death,Apocalyptica,308035,10110980,0.99,The Colour And The Shape,Faith No More,MPEG audio file,Metal,Music
+82,Creeping Death,Apocalyptica,308035,10110980,0.99,The Colour And The Shape,Faith No More,MPEG audio file,Metal,90’s Music
+82,Creeping Death,Apocalyptica,308035,10110980,0.99,The Colour And The Shape,Faith No More,MPEG audio file,Metal,Music
+83,Wherever I May Roam,Apocalyptica,369345,12033110,0.99,My Way: The Best Of Frank Sinatra [Disc 1],Falamansa,MPEG audio file,Metal,Music
+83,Wherever I May Roam,Apocalyptica,369345,12033110,0.99,My Way: The Best Of Frank Sinatra [Disc 1],Falamansa,MPEG audio file,Metal,90’s Music
+83,Wherever I May Roam,Apocalyptica,369345,12033110,0.99,My Way: The Best Of Frank Sinatra [Disc 1],Falamansa,MPEG audio file,Metal,Music
+84,Welcome Home (Sanitarium),Apocalyptica,350197,11406431,0.99,Roda De Funk,Foo Fighters,MPEG audio file,Metal,Music
+84,Welcome Home (Sanitarium),Apocalyptica,350197,11406431,0.99,Roda De Funk,Foo Fighters,MPEG audio file,Metal,90’s Music
+84,Welcome Home (Sanitarium),Apocalyptica,350197,11406431,0.99,Roda De Funk,Foo Fighters,MPEG audio file,Metal,Music
+85,Cochise,Audioslave/Chris Cornell,222380,5339931,0.99,As Canções de Eu Tu Eles,Frank Sinatra,MPEG audio file,Rock,Music
+85,Cochise,Audioslave/Chris Cornell,222380,5339931,0.99,As Canções de Eu Tu Eles,Frank Sinatra,MPEG audio file,Rock,Music
+86,Show Me How to Live,Audioslave/Chris Cornell,277890,6672176,0.99,Quanta Gente Veio Ver (Live),Funk Como Le Gusta,MPEG audio file,Rock,Music
+86,Show Me How to Live,Audioslave/Chris Cornell,277890,6672176,0.99,Quanta Gente Veio Ver (Live),Funk Como Le Gusta,MPEG audio file,Rock,Music
+87,Gasoline,Audioslave/Chris Cornell,279457,6709793,0.99,Quanta Gente Veio ver--Bônus De Carnaval,Godsmack,MPEG audio file,Rock,Music
+87,Gasoline,Audioslave/Chris Cornell,279457,6709793,0.99,Quanta Gente Veio ver--Bônus De Carnaval,Godsmack,MPEG audio file,Rock,Music
+88,What You Are,Audioslave/Chris Cornell,249391,5988186,0.99,Faceless,Guns N' Roses,MPEG audio file,Rock,Music
+88,What You Are,Audioslave/Chris Cornell,249391,5988186,0.99,Faceless,Guns N' Roses,MPEG audio file,Rock,Music
+89,Like a Stone,Audioslave/Chris Cornell,294034,7059624,0.99,American Idiot,Incognito,MPEG audio file,Rock,Music
+89,Like a Stone,Audioslave/Chris Cornell,294034,7059624,0.99,American Idiot,Incognito,MPEG audio file,Rock,Music
+90,Set It Off,Audioslave/Chris Cornell,263262,6321091,0.99,Appetite for Destruction,Iron Maiden,MPEG audio file,Rock,Music
+90,Set It Off,Audioslave/Chris Cornell,263262,6321091,0.99,Appetite for Destruction,Iron Maiden,MPEG audio file,Rock,Music
+91,Shadow on the Sun,Audioslave/Chris Cornell,343457,8245793,0.99,Use Your Illusion I,James Brown,MPEG audio file,Rock,Music
+91,Shadow on the Sun,Audioslave/Chris Cornell,343457,8245793,0.99,Use Your Illusion I,James Brown,MPEG audio file,Rock,Music
+92,I am the Highway,Audioslave/Chris Cornell,334942,8041411,0.99,Use Your Illusion II,Jamiroquai,MPEG audio file,Rock,Music
+92,I am the Highway,Audioslave/Chris Cornell,334942,8041411,0.99,Use Your Illusion II,Jamiroquai,MPEG audio file,Rock,Music
+93,Exploder,Audioslave/Chris Cornell,206053,4948095,0.99,Blue Moods,JET,MPEG audio file,Rock,Music
+93,Exploder,Audioslave/Chris Cornell,206053,4948095,0.99,Blue Moods,JET,MPEG audio file,Rock,Music
+94,Hypnotize,Audioslave/Chris Cornell,206628,4961887,0.99,A Matter of Life and Death,Jimi Hendrix,MPEG audio file,Rock,Music
+94,Hypnotize,Audioslave/Chris Cornell,206628,4961887,0.99,A Matter of Life and Death,Jimi Hendrix,MPEG audio file,Rock,Music
+95,Bring'em Back Alive,Audioslave/Chris Cornell,329534,7911634,0.99,A Real Dead One,Joe Satriani,MPEG audio file,Rock,Music
+95,Bring'em Back Alive,Audioslave/Chris Cornell,329534,7911634,0.99,A Real Dead One,Joe Satriani,MPEG audio file,Rock,Music
+96,Light My Way,Audioslave/Chris Cornell,303595,7289084,0.99,A Real Live One,Jota Quest,MPEG audio file,Rock,Music
+96,Light My Way,Audioslave/Chris Cornell,303595,7289084,0.99,A Real Live One,Jota Quest,MPEG audio file,Rock,Music
+97,Getaway Car,Audioslave/Chris Cornell,299598,7193162,0.99,Brave New World,João Suplicy,MPEG audio file,Rock,Music
+97,Getaway Car,Audioslave/Chris Cornell,299598,7193162,0.99,Brave New World,João Suplicy,MPEG audio file,Rock,Music
+98,The Last Remaining Light,Audioslave/Chris Cornell,317492,7622615,0.99,Dance Of Death,Judas Priest,MPEG audio file,Rock,Music
+98,The Last Remaining Light,Audioslave/Chris Cornell,317492,7622615,0.99,Dance Of Death,Judas Priest,MPEG audio file,Rock,Music
+99,Your Time Has Come,"Cornell, Commerford, Morello, Wilk",255529,8273592,0.99,Fear Of The Dark,Legião Urbana,MPEG audio file,Alternative & Punk,Music
+99,Your Time Has Come,"Cornell, Commerford, Morello, Wilk",255529,8273592,0.99,Fear Of The Dark,Legião Urbana,MPEG audio file,Alternative & Punk,Music
+100,Out Of Exile,"Cornell, Commerford, Morello, Wilk",291291,9506571,0.99,Iron Maiden,Lenny Kravitz,MPEG audio file,Alternative & Punk,Music
+100,Out Of Exile,"Cornell, Commerford, Morello, Wilk",291291,9506571,0.99,Iron Maiden,Lenny Kravitz,MPEG audio file,Alternative & Punk,Music
+101,Be Yourself,"Cornell, Commerford, Morello, Wilk",279484,9106160,0.99,Killers,Lulu Santos,MPEG audio file,Alternative & Punk,Music
+101,Be Yourself,"Cornell, Commerford, Morello, Wilk",279484,9106160,0.99,Killers,Lulu Santos,MPEG audio file,Alternative & Punk,Music
+102,Doesn't Remind Me,"Cornell, Commerford, Morello, Wilk",255869,8357387,0.99,Live After Death,Marillion,MPEG audio file,Alternative & Punk,Music
+102,Doesn't Remind Me,"Cornell, Commerford, Morello, Wilk",255869,8357387,0.99,Live After Death,Marillion,MPEG audio file,Alternative & Punk,Music
+103,Drown Me Slowly,"Cornell, Commerford, Morello, Wilk",233691,7609178,0.99,Live At Donington 1992 (Disc 1),Marisa Monte,MPEG audio file,Alternative & Punk,Music
+103,Drown Me Slowly,"Cornell, Commerford, Morello, Wilk",233691,7609178,0.99,Live At Donington 1992 (Disc 1),Marisa Monte,MPEG audio file,Alternative & Punk,Music
+104,Heaven's Dead,"Cornell, Commerford, Morello, Wilk",276688,9006158,0.99,Live At Donington 1992 (Disc 2),Marvin Gaye,MPEG audio file,Alternative & Punk,Music
+104,Heaven's Dead,"Cornell, Commerford, Morello, Wilk",276688,9006158,0.99,Live At Donington 1992 (Disc 2),Marvin Gaye,MPEG audio file,Alternative & Punk,Music
+105,The Worm,"Cornell, Commerford, Morello, Wilk",237714,7710800,0.99,No Prayer For The Dying,Men At Work,MPEG audio file,Alternative & Punk,Music
+105,The Worm,"Cornell, Commerford, Morello, Wilk",237714,7710800,0.99,No Prayer For The Dying,Men At Work,MPEG audio file,Alternative & Punk,Music
+106,Man Or Animal,"Cornell, Commerford, Morello, Wilk",233195,7542942,0.99,Piece Of Mind,Motörhead,MPEG audio file,Alternative & Punk,Music
+106,Man Or Animal,"Cornell, Commerford, Morello, Wilk",233195,7542942,0.99,Piece Of Mind,Motörhead,MPEG audio file,Alternative & Punk,Music
+107,Yesterday To Tomorrow,"Cornell, Commerford, Morello, Wilk",273763,8944205,0.99,Powerslave,Motörhead & Girlschool,MPEG audio file,Alternative & Punk,Music
+107,Yesterday To Tomorrow,"Cornell, Commerford, Morello, Wilk",273763,8944205,0.99,Powerslave,Motörhead & Girlschool,MPEG audio file,Alternative & Punk,Music
+108,Dandelion,"Cornell, Commerford, Morello, Wilk",278125,9003592,0.99,Rock In Rio [CD1],Mônica Marianno,MPEG audio file,Alternative & Punk,Music
+108,Dandelion,"Cornell, Commerford, Morello, Wilk",278125,9003592,0.99,Rock In Rio [CD1],Mônica Marianno,MPEG audio file,Alternative & Punk,Music
+109,#1 Zero,"Cornell, Commerford, Morello, Wilk",299102,9731988,0.99,Rock In Rio [CD2],Mötley Crüe,MPEG audio file,Alternative & Punk,Music
+109,#1 Zero,"Cornell, Commerford, Morello, Wilk",299102,9731988,0.99,Rock In Rio [CD2],Mötley Crüe,MPEG audio file,Alternative & Punk,Music
+110,The Curse,"Cornell, Commerford, Morello, Wilk",309786,10029406,0.99,Seventh Son of a Seventh Son,Nirvana,MPEG audio file,Alternative & Punk,Music
+110,The Curse,"Cornell, Commerford, Morello, Wilk",309786,10029406,0.99,Seventh Son of a Seventh Son,Nirvana,MPEG audio file,Alternative & Punk,Music
+111,Money,"Berry Gordy, Jr./Janie Bradford",147591,2365897,0.99,Somewhere in Time,O Terço,MPEG audio file,Rock And Roll,Music
+111,Money,"Berry Gordy, Jr./Janie Bradford",147591,2365897,0.99,Somewhere in Time,O Terço,MPEG audio file,Rock And Roll,90’s Music
+111,Money,"Berry Gordy, Jr./Janie Bradford",147591,2365897,0.99,Somewhere in Time,O Terço,MPEG audio file,Rock And Roll,Music
+112,Long Tall Sally,"Enotris Johnson/Little Richard/Robert Bumps\"" Blackwell\""",106396,1707084,0.99,The Number of The Beast,Olodum,MPEG audio file,Rock And Roll,Music
+112,Long Tall Sally,"Enotris Johnson/Little Richard/Robert Bumps\"" Blackwell\""",106396,1707084,0.99,The Number of The Beast,Olodum,MPEG audio file,Rock And Roll,90’s Music
+112,Long Tall Sally,"Enotris Johnson/Little Richard/Robert Bumps\"" Blackwell\""",106396,1707084,0.99,The Number of The Beast,Olodum,MPEG audio file,Rock And Roll,Music
+113,Bad Boy,Larry Williams,116088,1862126,0.99,The X Factor,Os Paralamas Do Sucesso,MPEG audio file,Rock And Roll,Music
+113,Bad Boy,Larry Williams,116088,1862126,0.99,The X Factor,Os Paralamas Do Sucesso,MPEG audio file,Rock And Roll,90’s Music
+113,Bad Boy,Larry Williams,116088,1862126,0.99,The X Factor,Os Paralamas Do Sucesso,MPEG audio file,Rock And Roll,Music
+114,Twist And Shout,Bert Russell/Phil Medley,161123,2582553,0.99,Virtual XI,Ozzy Osbourne,MPEG audio file,Rock And Roll,Music
+114,Twist And Shout,Bert Russell/Phil Medley,161123,2582553,0.99,Virtual XI,Ozzy Osbourne,MPEG audio file,Rock And Roll,90’s Music
+114,Twist And Shout,Bert Russell/Phil Medley,161123,2582553,0.99,Virtual XI,Ozzy Osbourne,MPEG audio file,Rock And Roll,Music
+115,Please Mr. Postman,Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett,137639,2206986,0.99,Sex Machine,Page & Plant,MPEG audio file,Rock And Roll,Music
+115,Please Mr. Postman,Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett,137639,2206986,0.99,Sex Machine,Page & Plant,MPEG audio file,Rock And Roll,90’s Music
+115,Please Mr. Postman,Brian Holland/Freddie Gorman/Georgia Dobbins/Robert Bateman/William Garrett,137639,2206986,0.99,Sex Machine,Page & Plant,MPEG audio file,Rock And Roll,Music
+116,C'Mon Everybody,Eddie Cochran/Jerry Capehart,140199,2247846,0.99,Emergency On Planet Earth,Passengers,MPEG audio file,Rock And Roll,Music
+116,C'Mon Everybody,Eddie Cochran/Jerry Capehart,140199,2247846,0.99,Emergency On Planet Earth,Passengers,MPEG audio file,Rock And Roll,90’s Music
+116,C'Mon Everybody,Eddie Cochran/Jerry Capehart,140199,2247846,0.99,Emergency On Planet Earth,Passengers,MPEG audio file,Rock And Roll,Music
+117,Rock 'N' Roll Music,Chuck Berry,141923,2276788,0.99,Synkronized,Paul D'Ianno,MPEG audio file,Rock And Roll,Music
+117,Rock 'N' Roll Music,Chuck Berry,141923,2276788,0.99,Synkronized,Paul D'Ianno,MPEG audio file,Rock And Roll,90’s Music
+117,Rock 'N' Roll Music,Chuck Berry,141923,2276788,0.99,Synkronized,Paul D'Ianno,MPEG audio file,Rock And Roll,Music
+118,Slow Down,Larry Williams,163265,2616981,0.99,The Return Of The Space Cowboy,Pearl Jam,MPEG audio file,Rock And Roll,Music
+118,Slow Down,Larry Williams,163265,2616981,0.99,The Return Of The Space Cowboy,Pearl Jam,MPEG audio file,Rock And Roll,90’s Music
+118,Slow Down,Larry Williams,163265,2616981,0.99,The Return Of The Space Cowboy,Pearl Jam,MPEG audio file,Rock And Roll,Music
+119,Roadrunner,Bo Diddley,143595,2301989,0.99,Get Born,Peter Tosh,MPEG audio file,Rock And Roll,Music
+119,Roadrunner,Bo Diddley,143595,2301989,0.99,Get Born,Peter Tosh,MPEG audio file,Rock And Roll,90’s Music
+119,Roadrunner,Bo Diddley,143595,2301989,0.99,Get Born,Peter Tosh,MPEG audio file,Rock And Roll,Music
+120,Carol,Chuck Berry,143830,2306019,0.99,Are You Experienced?,Pink Floyd,MPEG audio file,Rock And Roll,Music
+120,Carol,Chuck Berry,143830,2306019,0.99,Are You Experienced?,Pink Floyd,MPEG audio file,Rock And Roll,90’s Music
+120,Carol,Chuck Berry,143830,2306019,0.99,Are You Experienced?,Pink Floyd,MPEG audio file,Rock And Roll,Music
+121,Good Golly Miss Molly,Little Richard,106266,1704918,0.99,Surfing with the Alien (Remastered),Planet Hemp,MPEG audio file,Rock And Roll,Music
+121,Good Golly Miss Molly,Little Richard,106266,1704918,0.99,Surfing with the Alien (Remastered),Planet Hemp,MPEG audio file,Rock And Roll,90’s Music
+121,Good Golly Miss Molly,Little Richard,106266,1704918,0.99,Surfing with the Alien (Remastered),Planet Hemp,MPEG audio file,Rock And Roll,Music
+122,20 Flight Rock,Ned Fairchild,107807,1299960,0.99,Jorge Ben Jor 25 Anos,R.E.M. Feat. Kate Pearson,MPEG audio file,Rock And Roll,Music
+122,20 Flight Rock,Ned Fairchild,107807,1299960,0.99,Jorge Ben Jor 25 Anos,R.E.M. Feat. Kate Pearson,MPEG audio file,Rock And Roll,90’s Music
+122,20 Flight Rock,Ned Fairchild,107807,1299960,0.99,Jorge Ben Jor 25 Anos,R.E.M. Feat. Kate Pearson,MPEG audio file,Rock And Roll,Music
+123,Quadrant,Billy Cobham,261851,8538199,0.99,Jota Quest-1995,R.E.M. Feat. KRS-One,MPEG audio file,Jazz,Music
+123,Quadrant,Billy Cobham,261851,8538199,0.99,Jota Quest-1995,R.E.M. Feat. KRS-One,MPEG audio file,Jazz,Music
+124,Snoopy's search-Red baron,Billy Cobham,456071,15075616,0.99,Cafezinho,R.E.M.,MPEG audio file,Jazz,Music
+124,Snoopy's search-Red baron,Billy Cobham,456071,15075616,0.99,Cafezinho,R.E.M.,MPEG audio file,Jazz,Music
+125,"Spanish moss-A sound portrait""-Spanish moss""",Billy Cobham,248084,8217867,0.99,Living After Midnight,Raimundos,MPEG audio file,Jazz,Music
+125,"Spanish moss-A sound portrait""-Spanish moss""",Billy Cobham,248084,8217867,0.99,Living After Midnight,Raimundos,MPEG audio file,Jazz,Music
+126,Moon germs,Billy Cobham,294060,9714812,0.99,Unplugged [Live],Raul Seixas,MPEG audio file,Jazz,Music
+126,Moon germs,Billy Cobham,294060,9714812,0.99,Unplugged [Live],Raul Seixas,MPEG audio file,Jazz,Music
+127,Stratus,Billy Cobham,582086,19115680,0.99,BBC Sessions [Disc 2] [Live],Red Hot Chili Peppers,MPEG audio file,Jazz,Music
+127,Stratus,Billy Cobham,582086,19115680,0.99,BBC Sessions [Disc 2] [Live],Red Hot Chili Peppers,MPEG audio file,Jazz,Music
+128,The pleasant pheasant,Billy Cobham,318066,10630578,0.99,Coda,Rush,MPEG audio file,Jazz,Music
+128,The pleasant pheasant,Billy Cobham,318066,10630578,0.99,Coda,Rush,MPEG audio file,Jazz,Music
+129,Solo-Panhandler,Billy Cobham,246151,8230661,0.99,Houses Of The Holy,Simply Red,MPEG audio file,Jazz,Music
+129,Solo-Panhandler,Billy Cobham,246151,8230661,0.99,Houses Of The Holy,Simply Red,MPEG audio file,Jazz,Music
+130,Do what cha wanna,George Duke,274155,9018565,0.99,In Through The Out Door,Skank,MPEG audio file,Jazz,Music
+130,Do what cha wanna,George Duke,274155,9018565,0.99,In Through The Out Door,Skank,MPEG audio file,Jazz,Music
+131,Intro/ Low Down,NULL,323683,10642901,0.99,IV,Smashing Pumpkins,MPEG audio file,Metal,Music
+131,Intro/ Low Down,NULL,323683,10642901,0.99,IV,Smashing Pumpkins,MPEG audio file,Metal,Music
+132,13 Years Of Grief,NULL,246987,8137421,0.99,Led Zeppelin I,Soundgarden,MPEG audio file,Metal,Music
+132,13 Years Of Grief,NULL,246987,8137421,0.99,Led Zeppelin I,Soundgarden,MPEG audio file,Metal,Music
+133,Stronger Than Death,NULL,300747,9869647,0.99,Led Zeppelin II,Stevie Ray Vaughan & Double Trouble,MPEG audio file,Metal,Music
+133,Stronger Than Death,NULL,300747,9869647,0.99,Led Zeppelin II,Stevie Ray Vaughan & Double Trouble,MPEG audio file,Metal,Music
+134,All For You,NULL,235833,7726948,0.99,Led Zeppelin III,Stone Temple Pilots,MPEG audio file,Metal,Music
+134,All For You,NULL,235833,7726948,0.99,Led Zeppelin III,Stone Temple Pilots,MPEG audio file,Metal,Music
+135,Super Terrorizer,NULL,319373,10513905,0.99,Physical Graffiti [Disc 2],System Of A Down,MPEG audio file,Metal,Music
+135,Super Terrorizer,NULL,319373,10513905,0.99,Physical Graffiti [Disc 2],System Of A Down,MPEG audio file,Metal,Music
+136,Phoney Smile Fake Hellos,NULL,273606,9011701,0.99,Presence,"Terry Bozzio, Tony Levin & Steve Stevens",MPEG audio file,Metal,Music
+136,Phoney Smile Fake Hellos,NULL,273606,9011701,0.99,Presence,"Terry Bozzio, Tony Levin & Steve Stevens",MPEG audio file,Metal,Music
+137,Lost My Better Half,NULL,284081,9355309,0.99,The Song Remains The Same (Disc 1),The Black Crowes,MPEG audio file,Metal,Music
+137,Lost My Better Half,NULL,284081,9355309,0.99,The Song Remains The Same (Disc 1),The Black Crowes,MPEG audio file,Metal,Music
+138,Bored To Tears,NULL,247327,8130090,0.99,The Song Remains The Same (Disc 2),The Clash,MPEG audio file,Metal,Music
+138,Bored To Tears,NULL,247327,8130090,0.99,The Song Remains The Same (Disc 2),The Clash,MPEG audio file,Metal,Music
+139,A.N.D.R.O.T.A.Z.,NULL,266266,8574746,0.99,A TempestadeTempestade Ou O Livro Dos Dias,The Cult,MPEG audio file,Metal,Music
+139,A.N.D.R.O.T.A.Z.,NULL,266266,8574746,0.99,A TempestadeTempestade Ou O Livro Dos Dias,The Cult,MPEG audio file,Metal,Music
+140,Born To Booze,NULL,282122,9257358,0.99,Mais Do Mesmo,The Doors,MPEG audio file,Metal,Music
+140,Born To Booze,NULL,282122,9257358,0.99,Mais Do Mesmo,The Doors,MPEG audio file,Metal,Music
+141,World Of Trouble,NULL,359157,11820932,0.99,Greatest Hits,The Police,MPEG audio file,Metal,Music
+141,World Of Trouble,NULL,359157,11820932,0.99,Greatest Hits,The Police,MPEG audio file,Metal,Music
+142,No More Tears,NULL,555075,18041629,0.99,Lulu Santos - RCA 100 Anos De Música - Álbum 01,The Rolling Stones,MPEG audio file,Metal,Music
+142,No More Tears,NULL,555075,18041629,0.99,Lulu Santos - RCA 100 Anos De Música - Álbum 01,The Rolling Stones,MPEG audio file,Metal,Music
+143,The Begining... At Last,NULL,365662,11965109,0.99,Lulu Santos - RCA 100 Anos De Música - Álbum 02,The Tea Party,MPEG audio file,Metal,Music
+143,The Begining... At Last,NULL,365662,11965109,0.99,Lulu Santos - RCA 100 Anos De Música - Álbum 02,The Tea Party,MPEG audio file,Metal,Music
+144,Heart Of Gold,NULL,194873,6417460,0.99,Misplaced Childhood,The Who,MPEG audio file,Metal,Music
+144,Heart Of Gold,NULL,194873,6417460,0.99,Misplaced Childhood,The Who,MPEG audio file,Metal,Music
+145,Snowblind,NULL,420022,13842549,0.99,Barulhinho Bom,Tim Maia,MPEG audio file,Metal,Music
+145,Snowblind,NULL,420022,13842549,0.99,Barulhinho Bom,Tim Maia,MPEG audio file,Metal,Music
+146,Like A Bird,NULL,276532,9115657,0.99,Seek And Shall Find: More Of The Best (1963-1981),Titãs,MPEG audio file,Metal,Music
+146,Like A Bird,NULL,276532,9115657,0.99,Seek And Shall Find: More Of The Best (1963-1981),Titãs,MPEG audio file,Metal,Music
+147,Blood In The Wall,NULL,284368,9359475,0.99,The Best Of Men At Work,Battlestar Galactica,MPEG audio file,Metal,Music
+147,Blood In The Wall,NULL,284368,9359475,0.99,The Best Of Men At Work,Battlestar Galactica,MPEG audio file,Metal,Music
+148,The Beginning...At Last,NULL,271960,8975814,0.99,Black Album,Heroes,MPEG audio file,Metal,Music
+148,The Beginning...At Last,NULL,271960,8975814,0.99,Black Album,Heroes,MPEG audio file,Metal,Music
+149,Black Sabbath,NULL,382066,12440200,0.99,Garage Inc. (Disc 2),Lost,MPEG audio file,Metal,Music
+149,Black Sabbath,NULL,382066,12440200,0.99,Garage Inc. (Disc 2),Lost,MPEG audio file,Metal,Music
+150,The Wizard,NULL,264829,8646737,0.99,Kill 'Em All,U2,MPEG audio file,Metal,Music
+150,The Wizard,NULL,264829,8646737,0.99,Kill 'Em All,U2,MPEG audio file,Metal,Music
+151,Behind The Wall Of Sleep,NULL,217573,7169049,0.99,Load,UB40,MPEG audio file,Metal,Music
+151,Behind The Wall Of Sleep,NULL,217573,7169049,0.99,Load,UB40,MPEG audio file,Metal,Music
+152,N.I.B.,NULL,368770,12029390,0.99,Master Of Puppets,Van Halen,MPEG audio file,Metal,Music
+152,N.I.B.,NULL,368770,12029390,0.99,Master Of Puppets,Van Halen,MPEG audio file,Metal,Music
+152,N.I.B.,NULL,368770,12029390,0.99,Master Of Puppets,Van Halen,MPEG audio file,Metal,Heavy Metal Classic
+153,Evil Woman,NULL,204930,6655170,0.99,ReLoad,Velvet Revolver,MPEG audio file,Metal,Music
+153,Evil Woman,NULL,204930,6655170,0.99,ReLoad,Velvet Revolver,MPEG audio file,Metal,Music
+154,Sleeping Village,NULL,644571,21128525,0.99,Ride The Lightning,Whitesnake,MPEG audio file,Metal,Music
+154,Sleeping Village,NULL,644571,21128525,0.99,Ride The Lightning,Whitesnake,MPEG audio file,Metal,Music
+155,Warning,NULL,212062,6893363,0.99,St. Anger,Zeca Pagodinho,MPEG audio file,Metal,Music
+155,Warning,NULL,212062,6893363,0.99,St. Anger,Zeca Pagodinho,MPEG audio file,Metal,Music
+156,Wheels Of Confusion / The Straightener,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",494524,16065830,0.99,...And Justice For All,The Office,MPEG audio file,Metal,Music
+156,Wheels Of Confusion / The Straightener,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",494524,16065830,0.99,...And Justice For All,The Office,MPEG audio file,Metal,Music
+157,Tomorrow's Dream,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",192496,6252071,0.99,Miles Ahead,Dread Zeppelin,MPEG audio file,Metal,Music
+157,Tomorrow's Dream,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",192496,6252071,0.99,Miles Ahead,Dread Zeppelin,MPEG audio file,Metal,Music
+158,Changes,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",286275,9175517,0.99,Milton Nascimento Ao Vivo,Battlestar Galactica (Classic),MPEG audio file,Metal,Music
+158,Changes,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",286275,9175517,0.99,Milton Nascimento Ao Vivo,Battlestar Galactica (Classic),MPEG audio file,Metal,Music
+159,FX,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",103157,3331776,0.99,Minas,Aquaman,MPEG audio file,Metal,Music
+159,FX,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",103157,3331776,0.99,Minas,Aquaman,MPEG audio file,Metal,Music
+160,Supernaut,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",285779,9245971,0.99,Ace Of Spades,Christina Aguilera featuring BigElf,MPEG audio file,Metal,Music
+160,Supernaut,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",285779,9245971,0.99,Ace Of Spades,Christina Aguilera featuring BigElf,MPEG audio file,Metal,Music
+160,Supernaut,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",285779,9245971,0.99,Ace Of Spades,Christina Aguilera featuring BigElf,MPEG audio file,Metal,Heavy Metal Classic
+161,Snowblind,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",331676,10813386,0.99,Demorou...,Aerosmith & Sierra Leone's Refugee Allstars,MPEG audio file,Metal,Music
+161,Snowblind,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",331676,10813386,0.99,Demorou...,Aerosmith & Sierra Leone's Refugee Allstars,MPEG audio file,Metal,Music
+162,Cornucopia,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",234814,7653880,0.99,Motley Crue Greatest Hits,Los Lonely Boys,MPEG audio file,Metal,Music
+162,Cornucopia,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",234814,7653880,0.99,Motley Crue Greatest Hits,Los Lonely Boys,MPEG audio file,Metal,Music
+163,Laguna Sunrise,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",173087,5671374,0.99,From The Muddy Banks Of The Wishkah [Live],Corinne Bailey Rae,MPEG audio file,Metal,Music
+163,Laguna Sunrise,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",173087,5671374,0.99,From The Muddy Banks Of The Wishkah [Live],Corinne Bailey Rae,MPEG audio file,Metal,Music
+164,St. Vitus Dance,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",149655,4884969,0.99,Nevermind,Dhani Harrison & Jakob Dylan,MPEG audio file,Metal,Music
+164,St. Vitus Dance,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",149655,4884969,0.99,Nevermind,Dhani Harrison & Jakob Dylan,MPEG audio file,Metal,Music
+165,Under The Sun/Every Day Comes and Goes,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",350458,11360486,0.99,Compositores,Jackson Browne,MPEG audio file,Metal,Music
+165,Under The Sun/Every Day Comes and Goes,"Tony Iommi, Bill Ward, Geezer Butler, Ozzy Osbourne",350458,11360486,0.99,Compositores,Jackson Browne,MPEG audio file,Metal,Music
+166,Smoked Pork,NULL,47333,1549074,0.99,Olodum,Avril Lavigne,MPEG audio file,Alternative & Punk,Music
+166,Smoked Pork,NULL,47333,1549074,0.99,Olodum,Avril Lavigne,MPEG audio file,Alternative & Punk,90’s Music
+166,Smoked Pork,NULL,47333,1549074,0.99,Olodum,Avril Lavigne,MPEG audio file,Alternative & Punk,Music
+167,Body Count's In The House,NULL,204251,6715413,0.99,Acústico MTV,Big & Rich,MPEG audio file,Alternative & Punk,Music
+167,Body Count's In The House,NULL,204251,6715413,0.99,Acústico MTV,Big & Rich,MPEG audio file,Alternative & Punk,90’s Music
+167,Body Count's In The House,NULL,204251,6715413,0.99,Acústico MTV,Big & Rich,MPEG audio file,Alternative & Punk,Music
+168,Now Sports,NULL,4884,161266,0.99,Arquivo II,Youssou N'Dour,MPEG audio file,Alternative & Punk,Music
+168,Now Sports,NULL,4884,161266,0.99,Arquivo II,Youssou N'Dour,MPEG audio file,Alternative & Punk,90’s Music
+168,Now Sports,NULL,4884,161266,0.99,Arquivo II,Youssou N'Dour,MPEG audio file,Alternative & Punk,Music
+169,Body Count,NULL,317936,10489139,0.99,Arquivo Os Paralamas Do Sucesso,Black Eyed Peas,MPEG audio file,Alternative & Punk,Music
+169,Body Count,NULL,317936,10489139,0.99,Arquivo Os Paralamas Do Sucesso,Black Eyed Peas,MPEG audio file,Alternative & Punk,90’s Music
+169,Body Count,NULL,317936,10489139,0.99,Arquivo Os Paralamas Do Sucesso,Black Eyed Peas,MPEG audio file,Alternative & Punk,Music
+170,A Statistic,NULL,6373,211997,0.99,Bark at the Moon (Remastered),Jack Johnson,MPEG audio file,Alternative & Punk,Music
+170,A Statistic,NULL,6373,211997,0.99,Bark at the Moon (Remastered),Jack Johnson,MPEG audio file,Alternative & Punk,90’s Music
+170,A Statistic,NULL,6373,211997,0.99,Bark at the Moon (Remastered),Jack Johnson,MPEG audio file,Alternative & Punk,Music
+171,Bowels Of The Devil,NULL,223216,7324125,0.99,Blizzard of Ozz,Ben Harper,MPEG audio file,Alternative & Punk,Music
+171,Bowels Of The Devil,NULL,223216,7324125,0.99,Blizzard of Ozz,Ben Harper,MPEG audio file,Alternative & Punk,90’s Music
+171,Bowels Of The Devil,NULL,223216,7324125,0.99,Blizzard of Ozz,Ben Harper,MPEG audio file,Alternative & Punk,Music
+172,The Real Problem,NULL,11650,387360,0.99,Diary of a Madman (Remastered),Snow Patrol,MPEG audio file,Alternative & Punk,Music
+172,The Real Problem,NULL,11650,387360,0.99,Diary of a Madman (Remastered),Snow Patrol,MPEG audio file,Alternative & Punk,90’s Music
+172,The Real Problem,NULL,11650,387360,0.99,Diary of a Madman (Remastered),Snow Patrol,MPEG audio file,Alternative & Punk,Music
+173,KKK Bitch,NULL,173008,5709631,0.99,No More Tears (Remastered),Matisyahu,MPEG audio file,Alternative & Punk,Music
+173,KKK Bitch,NULL,173008,5709631,0.99,No More Tears (Remastered),Matisyahu,MPEG audio file,Alternative & Punk,90’s Music
+173,KKK Bitch,NULL,173008,5709631,0.99,No More Tears (Remastered),Matisyahu,MPEG audio file,Alternative & Punk,Music
+174,D Note,NULL,95738,3067064,0.99,Tribute,The Postal Service,MPEG audio file,Alternative & Punk,Music
+174,D Note,NULL,95738,3067064,0.99,Tribute,The Postal Service,MPEG audio file,Alternative & Punk,90’s Music
+174,D Note,NULL,95738,3067064,0.99,Tribute,The Postal Service,MPEG audio file,Alternative & Punk,Music
+175,Voodoo,NULL,300721,9875962,0.99,Walking Into Clarksdale,Jaguares,MPEG audio file,Alternative & Punk,Music
+175,Voodoo,NULL,300721,9875962,0.99,Walking Into Clarksdale,Jaguares,MPEG audio file,Alternative & Punk,90’s Music
+175,Voodoo,NULL,300721,9875962,0.99,Walking Into Clarksdale,Jaguares,MPEG audio file,Alternative & Punk,Music
+176,The Winner Loses,NULL,392254,12843821,0.99,Original Soundtracks 1,The Flaming Lips,MPEG audio file,Alternative & Punk,Music
+176,The Winner Loses,NULL,392254,12843821,0.99,Original Soundtracks 1,The Flaming Lips,MPEG audio file,Alternative & Punk,90’s Music
+176,The Winner Loses,NULL,392254,12843821,0.99,Original Soundtracks 1,The Flaming Lips,MPEG audio file,Alternative & Punk,Music
+177,There Goes The Neighborhood,NULL,350171,11443471,0.99,The Beast Live,Jack's Mannequin & Mick Fleetwood,MPEG audio file,Alternative & Punk,Music
+177,There Goes The Neighborhood,NULL,350171,11443471,0.99,The Beast Live,Jack's Mannequin & Mick Fleetwood,MPEG audio file,Alternative & Punk,90’s Music
+177,There Goes The Neighborhood,NULL,350171,11443471,0.99,The Beast Live,Jack's Mannequin & Mick Fleetwood,MPEG audio file,Alternative & Punk,Music
+178,Oprah,NULL,6635,224313,0.99,Live On Two Legs [Live],Regina Spektor,MPEG audio file,Alternative & Punk,Music
+178,Oprah,NULL,6635,224313,0.99,Live On Two Legs [Live],Regina Spektor,MPEG audio file,Alternative & Punk,90’s Music
+178,Oprah,NULL,6635,224313,0.99,Live On Two Legs [Live],Regina Spektor,MPEG audio file,Alternative & Punk,Music
+179,Evil Dick,NULL,239020,7828873,0.99,Pearl Jam,Scorpions,MPEG audio file,Alternative & Punk,Music
+179,Evil Dick,NULL,239020,7828873,0.99,Pearl Jam,Scorpions,MPEG audio file,Alternative & Punk,90’s Music
+179,Evil Dick,NULL,239020,7828873,0.99,Pearl Jam,Scorpions,MPEG audio file,Alternative & Punk,Music
+180,Body Count Anthem,NULL,166426,5463690,0.99,Riot Act,House Of Pain,MPEG audio file,Alternative & Punk,Music
+180,Body Count Anthem,NULL,166426,5463690,0.99,Riot Act,House Of Pain,MPEG audio file,Alternative & Punk,90’s Music
+180,Body Count Anthem,NULL,166426,5463690,0.99,Riot Act,House Of Pain,MPEG audio file,Alternative & Punk,Music
+181,Momma's Gotta Die Tonight,NULL,371539,12122946,0.99,Ten,Xis,MPEG audio file,Alternative & Punk,Music
+181,Momma's Gotta Die Tonight,NULL,371539,12122946,0.99,Ten,Xis,MPEG audio file,Alternative & Punk,90’s Music
+181,Momma's Gotta Die Tonight,NULL,371539,12122946,0.99,Ten,Xis,MPEG audio file,Alternative & Punk,Music
+182,Freedom Of Speech,NULL,281234,9337917,0.99,Vs.,Nega Gizza,MPEG audio file,Alternative & Punk,Music
+182,Freedom Of Speech,NULL,281234,9337917,0.99,Vs.,Nega Gizza,MPEG audio file,Alternative & Punk,90’s Music
+182,Freedom Of Speech,NULL,281234,9337917,0.99,Vs.,Nega Gizza,MPEG audio file,Alternative & Punk,Music
+183,King In Crimson,Roy Z,283167,9218499,0.99,Dark Side Of The Moon,Gustavo & Andres Veiga & Salazar,MPEG audio file,Metal,Music
+183,King In Crimson,Roy Z,283167,9218499,0.99,Dark Side Of The Moon,Gustavo & Andres Veiga & Salazar,MPEG audio file,Metal,90’s Music
+183,King In Crimson,Roy Z,283167,9218499,0.99,Dark Side Of The Moon,Gustavo & Andres Veiga & Salazar,MPEG audio file,Metal,Music
+184,Chemical Wedding,Roy Z,246177,8022764,0.99,Os Cães Ladram Mas A Caravana Não Pára,Rodox,MPEG audio file,Metal,Music
+184,Chemical Wedding,Roy Z,246177,8022764,0.99,Os Cães Ladram Mas A Caravana Não Pára,Rodox,MPEG audio file,Metal,90’s Music
+184,Chemical Wedding,Roy Z,246177,8022764,0.99,Os Cães Ladram Mas A Caravana Não Pára,Rodox,MPEG audio file,Metal,Music
+185,The Tower,Roy Z,285257,9435693,0.99,Greatest Hits I,Charlie Brown Jr.,MPEG audio file,Metal,Music
+185,The Tower,Roy Z,285257,9435693,0.99,Greatest Hits I,Charlie Brown Jr.,MPEG audio file,Metal,90’s Music
+185,The Tower,Roy Z,285257,9435693,0.99,Greatest Hits I,Charlie Brown Jr.,MPEG audio file,Metal,Music
+186,Killing Floor,Adrian Smith,269557,8854240,0.99,News Of The World,Pedro Luís E A Parede,MPEG audio file,Metal,Music
+186,Killing Floor,Adrian Smith,269557,8854240,0.99,News Of The World,Pedro Luís E A Parede,MPEG audio file,Metal,90’s Music
+186,Killing Floor,Adrian Smith,269557,8854240,0.99,News Of The World,Pedro Luís E A Parede,MPEG audio file,Metal,Music
+187,Book Of Thel,Eddie Casillas/Roy Z,494393,16034404,0.99,Out Of Time,Los Hermanos,MPEG audio file,Metal,Music
+187,Book Of Thel,Eddie Casillas/Roy Z,494393,16034404,0.99,Out Of Time,Los Hermanos,MPEG audio file,Metal,90’s Music
+187,Book Of Thel,Eddie Casillas/Roy Z,494393,16034404,0.99,Out Of Time,Los Hermanos,MPEG audio file,Metal,Music
+188,Gates Of Urizen,Roy Z,265351,8627004,0.99,Green,Mundo Livre S/A,MPEG audio file,Metal,Music
+188,Gates Of Urizen,Roy Z,265351,8627004,0.99,Green,Mundo Livre S/A,MPEG audio file,Metal,90’s Music
+188,Gates Of Urizen,Roy Z,265351,8627004,0.99,Green,Mundo Livre S/A,MPEG audio file,Metal,Music
+189,Jerusalem,Roy Z,402390,13194463,0.99,New Adventures In Hi-Fi,Otto,MPEG audio file,Metal,Music
+189,Jerusalem,Roy Z,402390,13194463,0.99,New Adventures In Hi-Fi,Otto,MPEG audio file,Metal,90’s Music
+189,Jerusalem,Roy Z,402390,13194463,0.99,New Adventures In Hi-Fi,Otto,MPEG audio file,Metal,Music
+190,Trupets Of Jericho,Roy Z,359131,11820908,0.99,The Best Of R.E.M.: The IRS Years,Instituto,MPEG audio file,Metal,Music
+190,Trupets Of Jericho,Roy Z,359131,11820908,0.99,The Best Of R.E.M.: The IRS Years,Instituto,MPEG audio file,Metal,90’s Music
+190,Trupets Of Jericho,Roy Z,359131,11820908,0.99,The Best Of R.E.M.: The IRS Years,Instituto,MPEG audio file,Metal,Music
+191,Machine Men,Adrian Smith,341655,11138147,0.99,Cesta Básica,Nação Zumbi,MPEG audio file,Metal,Music
+191,Machine Men,Adrian Smith,341655,11138147,0.99,Cesta Básica,Nação Zumbi,MPEG audio file,Metal,90’s Music
+191,Machine Men,Adrian Smith,341655,11138147,0.99,Cesta Básica,Nação Zumbi,MPEG audio file,Metal,Music
+192,The Alchemist,Roy Z,509413,16545657,0.99,Raul Seixas,DJ Dolores & Orchestra Santa Massa,MPEG audio file,Metal,Music
+192,The Alchemist,Roy Z,509413,16545657,0.99,Raul Seixas,DJ Dolores & Orchestra Santa Massa,MPEG audio file,Metal,90’s Music
+192,The Alchemist,Roy Z,509413,16545657,0.99,Raul Seixas,DJ Dolores & Orchestra Santa Massa,MPEG audio file,Metal,Music
+193,Realword,Roy Z,237531,7802095,0.99,Blood Sugar Sex Magik,Seu Jorge,MPEG audio file,Metal,Music
+193,Realword,Roy Z,237531,7802095,0.99,Blood Sugar Sex Magik,Seu Jorge,MPEG audio file,Metal,90’s Music
+193,Realword,Roy Z,237531,7802095,0.99,Blood Sugar Sex Magik,Seu Jorge,MPEG audio file,Metal,Music
+194,First Time I Met The Blues,Eurreal Montgomery,140434,4604995,0.99,By The Way,Sabotage E Instituto,MPEG audio file,Blues,Music
+194,First Time I Met The Blues,Eurreal Montgomery,140434,4604995,0.99,By The Way,Sabotage E Instituto,MPEG audio file,Blues,Music
+195,Let Me Love You Baby,Willie Dixon,175386,5716994,0.99,Californication,Stereo Maracana,MPEG audio file,Blues,Music
+195,Let Me Love You Baby,Willie Dixon,175386,5716994,0.99,Californication,Stereo Maracana,MPEG audio file,Blues,Music
+196,Stone Crazy,Buddy Guy,433397,14184984,0.99,Retrospective I (1974-1980),Cake,MPEG audio file,Blues,Music
+196,Stone Crazy,Buddy Guy,433397,14184984,0.99,Retrospective I (1974-1980),Cake,MPEG audio file,Blues,Music
+197,Pretty Baby,Willie Dixon,237662,7848282,0.99,Santana - As Years Go By,Aisha Duo,MPEG audio file,Blues,Music
+197,Pretty Baby,Willie Dixon,237662,7848282,0.99,Santana - As Years Go By,Aisha Duo,MPEG audio file,Blues,Music
+198,When My Left Eye Jumps,Al Perkins/Willie Dixon,235311,7685363,0.99,Santana Live,Habib Koité and Bamada,MPEG audio file,Blues,Music
+198,When My Left Eye Jumps,Al Perkins/Willie Dixon,235311,7685363,0.99,Santana Live,Habib Koité and Bamada,MPEG audio file,Blues,Music
+199,Leave My Girl Alone,Buddy Guy,204721,6859518,0.99,Maquinarama,Karsh Kale,MPEG audio file,Blues,Music
+199,Leave My Girl Alone,Buddy Guy,204721,6859518,0.99,Maquinarama,Karsh Kale,MPEG audio file,Blues,Music
+200,She Suits Me To A Tee,Buddy Guy,136803,4456321,0.99,O Samba Poconé,The Posies,MPEG audio file,Blues,Music
+200,She Suits Me To A Tee,Buddy Guy,136803,4456321,0.99,O Samba Poconé,The Posies,MPEG audio file,Blues,Music
+201,Keep It To Myself (Aka Keep It To Yourself),Sonny Boy Williamson [I],166060,5487056,0.99,Judas 0: B-Sides and Rarities,Luciana Souza/Romero Lubambo,MPEG audio file,Blues,Music
+201,Keep It To Myself (Aka Keep It To Yourself),Sonny Boy Williamson [I],166060,5487056,0.99,Judas 0: B-Sides and Rarities,Luciana Souza/Romero Lubambo,MPEG audio file,Blues,Music
+202,My Time After Awhile,Robert Geddins/Ron Badger/Sheldon Feinberg,182491,6022698,0.99,Rotten Apples: Greatest Hits,Aaron Goldberg,MPEG audio file,Blues,Music
+202,My Time After Awhile,Robert Geddins/Ron Badger/Sheldon Feinberg,182491,6022698,0.99,Rotten Apples: Greatest Hits,Aaron Goldberg,MPEG audio file,Blues,Music
+203,Too Many Ways (Alternate),Willie Dixon,135053,4459946,0.99,A-Sides,Nicolaus Esterhazy Sinfonia,MPEG audio file,Blues,Music
+203,Too Many Ways (Alternate),Willie Dixon,135053,4459946,0.99,A-Sides,Nicolaus Esterhazy Sinfonia,MPEG audio file,Blues,Music
+204,Talkin' 'Bout Women Obviously,Amos Blakemore/Buddy Guy,589531,19161377,0.99,Morning Dance,Temple of the Dog,MPEG audio file,Blues,Music
+204,Talkin' 'Bout Women Obviously,Amos Blakemore/Buddy Guy,589531,19161377,0.99,Morning Dance,Temple of the Dog,MPEG audio file,Blues,Music
+205,Jorge Da Capadócia,Jorge Ben,177397,5842196,0.99,In Step,Chris Cornell,MPEG audio file,Latin,Music
+205,Jorge Da Capadócia,Jorge Ben,177397,5842196,0.99,In Step,Chris Cornell,MPEG audio file,Latin,90’s Music
+205,Jorge Da Capadócia,Jorge Ben,177397,5842196,0.99,In Step,Chris Cornell,MPEG audio file,Latin,Music
+206,Prenda Minha,Tradicional,99369,3225364,0.99,Core,Alberto Turco & Nova Schola Gregoriana,MPEG audio file,Latin,Music
+206,Prenda Minha,Tradicional,99369,3225364,0.99,Core,Alberto Turco & Nova Schola Gregoriana,MPEG audio file,Latin,90’s Music
+206,Prenda Minha,Tradicional,99369,3225364,0.99,Core,Alberto Turco & Nova Schola Gregoriana,MPEG audio file,Latin,Music
+207,Meditação,Tom Jobim - Newton Mendoça,148793,4865597,0.99,Mezmerize,"Richard Marlow & The Choir of Trinity College, Cambridge",MPEG audio file,Latin,Music
+207,Meditação,Tom Jobim - Newton Mendoça,148793,4865597,0.99,Mezmerize,"Richard Marlow & The Choir of Trinity College, Cambridge",MPEG audio file,Latin,90’s Music
+207,Meditação,Tom Jobim - Newton Mendoça,148793,4865597,0.99,Mezmerize,"Richard Marlow & The Choir of Trinity College, Cambridge",MPEG audio file,Latin,Music
+208,Terra,Caetano Veloso,482429,15889054,0.99,[1997] Black Light Syndrome,English Concert & Trevor Pinnock,MPEG audio file,Latin,Music
+208,Terra,Caetano Veloso,482429,15889054,0.99,[1997] Black Light Syndrome,English Concert & Trevor Pinnock,MPEG audio file,Latin,90’s Music
+208,Terra,Caetano Veloso,482429,15889054,0.99,[1997] Black Light Syndrome,English Concert & Trevor Pinnock,MPEG audio file,Latin,Music
+209,Eclipse Oculto,Caetano Veloso,221936,7382703,0.99,Live [Disc 1],"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",MPEG audio file,Latin,Music
+209,Eclipse Oculto,Caetano Veloso,221936,7382703,0.99,Live [Disc 1],"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",MPEG audio file,Latin,90’s Music
+209,Eclipse Oculto,Caetano Veloso,221936,7382703,0.99,Live [Disc 1],"Anne-Sophie Mutter, Herbert Von Karajan & Wiener Philharmoniker",MPEG audio file,Latin,Music
+210,"Texto Verdade Tropical""",Caetano Veloso,84088,2752161,0.99,Live [Disc 2],"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",MPEG audio file,Latin,Music
+210,"Texto Verdade Tropical""",Caetano Veloso,84088,2752161,0.99,Live [Disc 2],"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",MPEG audio file,Latin,90’s Music
+210,"Texto Verdade Tropical""",Caetano Veloso,84088,2752161,0.99,Live [Disc 2],"Hilary Hahn, Jeffrey Kahane, Los Angeles Chamber Orchestra & Margaret Batjer",MPEG audio file,Latin,Music
+211,Bem Devagar,Gilberto Gil,133172,4333651,0.99,The Singles,Wilhelm Kempff,MPEG audio file,Latin,Music
+211,Bem Devagar,Gilberto Gil,133172,4333651,0.99,The Singles,Wilhelm Kempff,MPEG audio file,Latin,90’s Music
+211,Bem Devagar,Gilberto Gil,133172,4333651,0.99,The Singles,Wilhelm Kempff,MPEG audio file,Latin,Music
+212,Drão,Gilberto Gil,156264,5065932,0.99,Beyond Good And Evil,Yo-Yo Ma,MPEG audio file,Latin,Music
+212,Drão,Gilberto Gil,156264,5065932,0.99,Beyond Good And Evil,Yo-Yo Ma,MPEG audio file,Latin,90’s Music
+212,Drão,Gilberto Gil,156264,5065932,0.99,Beyond Good And Evil,Yo-Yo Ma,MPEG audio file,Latin,Music
+213,Saudosismo,Caetano Veloso,144326,4726981,0.99,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Scholars Baroque Ensemble,MPEG audio file,Latin,Music
+213,Saudosismo,Caetano Veloso,144326,4726981,0.99,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Scholars Baroque Ensemble,MPEG audio file,Latin,90’s Music
+213,Saudosismo,Caetano Veloso,144326,4726981,0.99,"Pure Cult: The Best Of The Cult (For Rockers, Ravers, Lovers & Sinners) [UK]",Scholars Baroque Ensemble,MPEG audio file,Latin,Music
+214,Carolina,Chico Buarque,181812,5924159,0.99,The Doors,Academy of St. Martin in the Fields & Sir Neville Marriner,MPEG audio file,Latin,Music
+214,Carolina,Chico Buarque,181812,5924159,0.99,The Doors,Academy of St. Martin in the Fields & Sir Neville Marriner,MPEG audio file,Latin,90’s Music
+214,Carolina,Chico Buarque,181812,5924159,0.99,The Doors,Academy of St. Martin in the Fields & Sir Neville Marriner,MPEG audio file,Latin,Music
+215,Sozinho,Peninha,190589,6253200,0.99,The Police Greatest Hits,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,MPEG audio file,Latin,Music
+215,Sozinho,Peninha,190589,6253200,0.99,The Police Greatest Hits,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,MPEG audio file,Latin,90’s Music
+215,Sozinho,Peninha,190589,6253200,0.99,The Police Greatest Hits,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,MPEG audio file,Latin,Music
+215,Sozinho,Peninha,190589,6253200,0.99,The Police Greatest Hits,Academy of St. Martin in the Fields Chamber Ensemble & Sir Neville Marriner,MPEG audio file,Latin,Brazilian Music
+216,Esse Cara,Caetano Veloso,223111,7217126,0.99,"Hot Rocks, 1964-1971 (Disc 1)","Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",MPEG audio file,Latin,Music
+216,Esse Cara,Caetano Veloso,223111,7217126,0.99,"Hot Rocks, 1964-1971 (Disc 1)","Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",MPEG audio file,Latin,90’s Music
+216,Esse Cara,Caetano Veloso,223111,7217126,0.99,"Hot Rocks, 1964-1971 (Disc 1)","Berliner Philharmoniker, Claudio Abbado & Sabine Meyer",MPEG audio file,Latin,Music
+217,Mel,Caetano Veloso - Waly Salomão,294765,9854062,0.99,No Security,Royal Philharmonic Orchestra & Sir Thomas Beecham,MPEG audio file,Latin,Music
+217,Mel,Caetano Veloso - Waly Salomão,294765,9854062,0.99,No Security,Royal Philharmonic Orchestra & Sir Thomas Beecham,MPEG audio file,Latin,90’s Music
+217,Mel,Caetano Veloso - Waly Salomão,294765,9854062,0.99,No Security,Royal Philharmonic Orchestra & Sir Thomas Beecham,MPEG audio file,Latin,Music
+218,Linha Do Equador,Caetano Veloso - Djavan,299337,10003747,0.99,Voodoo Lounge,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,MPEG audio file,Latin,Music
+218,Linha Do Equador,Caetano Veloso - Djavan,299337,10003747,0.99,Voodoo Lounge,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,MPEG audio file,Latin,90’s Music
+218,Linha Do Equador,Caetano Veloso - Djavan,299337,10003747,0.99,Voodoo Lounge,Orchestre Révolutionnaire et Romantique & John Eliot Gardiner,MPEG audio file,Latin,Music
+219,Odara,Caetano Veloso,141270,4704104,0.99,Tangents,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",MPEG audio file,Latin,Music
+219,Odara,Caetano Veloso,141270,4704104,0.99,Tangents,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",MPEG audio file,Latin,90’s Music
+219,Odara,Caetano Veloso,141270,4704104,0.99,Tangents,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",MPEG audio file,Latin,Music
+219,Odara,Caetano Veloso,141270,4704104,0.99,Tangents,"Britten Sinfonia, Ivor Bolton & Lesley Garrett",MPEG audio file,Latin,Brazilian Music
+220,A Luz De Tieta,Caetano Veloso,251742,8507446,0.99,Transmission,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",MPEG audio file,Latin,Music
+220,A Luz De Tieta,Caetano Veloso,251742,8507446,0.99,Transmission,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",MPEG audio file,Latin,90’s Music
+220,A Luz De Tieta,Caetano Veloso,251742,8507446,0.99,Transmission,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",MPEG audio file,Latin,Music
+220,A Luz De Tieta,Caetano Veloso,251742,8507446,0.99,Transmission,"Chicago Symphony Chorus, Chicago Symphony Orchestra & Sir Georg Solti",MPEG audio file,Latin,Brazilian Music
+221,Atrás Da Verd-E-Rosa Só Não Vai Quem Já Morreu,David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto,307252,10364247,0.99,My Generation - The Very Best Of The Who,Sir Georg Solti & Wiener Philharmoniker,MPEG audio file,Latin,Music
+221,Atrás Da Verd-E-Rosa Só Não Vai Quem Já Morreu,David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto,307252,10364247,0.99,My Generation - The Very Best Of The Who,Sir Georg Solti & Wiener Philharmoniker,MPEG audio file,Latin,90’s Music
+221,Atrás Da Verd-E-Rosa Só Não Vai Quem Já Morreu,David Corrêa - Paulinho Carvalho - Carlos Sena - Bira do Ponto,307252,10364247,0.99,My Generation - The Very Best Of The Who,Sir Georg Solti & Wiener Philharmoniker,MPEG audio file,Latin,Music
+222,Vida Boa,Fausto Nilo - Armandinho,281730,9411272,0.99,Serie Sem Limite (Disc 1),"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",MPEG audio file,Latin,Music
+222,Vida Boa,Fausto Nilo - Armandinho,281730,9411272,0.99,Serie Sem Limite (Disc 1),"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",MPEG audio file,Latin,90’s Music
+222,Vida Boa,Fausto Nilo - Armandinho,281730,9411272,0.99,Serie Sem Limite (Disc 1),"Academy of St. Martin in the Fields, John Birch, Sir Neville Marriner & Sylvia McNair",MPEG audio file,Latin,Music
+223,Sozinho (Hitmakers Classic Mix),NULL,436636,14462072,0.99,Serie Sem Limite (Disc 2),London Symphony Orchestra & Sir Charles Mackerras,MPEG audio file,Latin,Music
+223,Sozinho (Hitmakers Classic Mix),NULL,436636,14462072,0.99,Serie Sem Limite (Disc 2),London Symphony Orchestra & Sir Charles Mackerras,MPEG audio file,Latin,Music
+224,Sozinho (Hitmakers Classic Radio Edit),NULL,195004,6455134,0.99,Acústico,Barry Wordsworth & BBC Concert Orchestra,MPEG audio file,Latin,Music
+224,Sozinho (Hitmakers Classic Radio Edit),NULL,195004,6455134,0.99,Acústico,Barry Wordsworth & BBC Concert Orchestra,MPEG audio file,Latin,Music
+225,Sozinho (Caêdrum 'n' Bass),NULL,328071,10975007,0.99,Volume Dois,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker",MPEG audio file,Latin,Music
+225,Sozinho (Caêdrum 'n' Bass),NULL,328071,10975007,0.99,Volume Dois,"Herbert Von Karajan, Mirella Freni & Wiener Philharmoniker",MPEG audio file,Latin,Music
+226,Carolina,NULL,163056,5375395,0.99,Battlestar Galactica: The Story So Far,Eugene Ormandy,MPEG audio file,Latin,Music
+226,Carolina,NULL,163056,5375395,0.99,Battlestar Galactica: The Story So Far,Eugene Ormandy,MPEG audio file,Latin,Music
+227,Essa Moça Ta Diferente,NULL,167235,5568574,0.99,"Battlestar Galactica, Season 3",Luciano Pavarotti,MPEG audio file,Latin,Music
+227,Essa Moça Ta Diferente,NULL,167235,5568574,0.99,"Battlestar Galactica, Season 3",Luciano Pavarotti,MPEG audio file,Latin,Music
+228,Vai Passar,NULL,369763,12359161,0.99,"Heroes, Season 1",Leonard Bernstein & New York Philharmonic,MPEG audio file,Latin,Music
+228,Vai Passar,NULL,369763,12359161,0.99,"Heroes, Season 1",Leonard Bernstein & New York Philharmonic,MPEG audio file,Latin,Music
+228,Vai Passar,NULL,369763,12359161,0.99,"Heroes, Season 1",Leonard Bernstein & New York Philharmonic,MPEG audio file,Latin,Brazilian Music
+229,Samba De Orly,NULL,162429,5431854,0.99,"Lost, Season 3",Boston Symphony Orchestra & Seiji Ozawa,MPEG audio file,Latin,Music
+229,Samba De Orly,NULL,162429,5431854,0.99,"Lost, Season 3",Boston Symphony Orchestra & Seiji Ozawa,MPEG audio file,Latin,Music
+230,"Bye, Bye Brasil",NULL,283402,9499590,0.99,"Lost, Season 1",Aaron Copland & London Symphony Orchestra,MPEG audio file,Latin,Music
+230,"Bye, Bye Brasil",NULL,283402,9499590,0.99,"Lost, Season 1",Aaron Copland & London Symphony Orchestra,MPEG audio file,Latin,Music
+230,"Bye, Bye Brasil",NULL,283402,9499590,0.99,"Lost, Season 1",Aaron Copland & London Symphony Orchestra,MPEG audio file,Latin,Brazilian Music
+231,Atras Da Porta,NULL,189675,6132843,0.99,"Lost, Season 2",Ton Koopman,MPEG audio file,Latin,Music
+231,Atras Da Porta,NULL,189675,6132843,0.99,"Lost, Season 2",Ton Koopman,MPEG audio file,Latin,Music
+232,Tatuagem,NULL,172120,5645703,0.99,Achtung Baby,Sergei Prokofiev & Yuri Temirkanov,MPEG audio file,Latin,Music
+232,Tatuagem,NULL,172120,5645703,0.99,Achtung Baby,Sergei Prokofiev & Yuri Temirkanov,MPEG audio file,Latin,Music
+233,O Que Será (À Flor Da Terra),NULL,167288,5574848,0.99,All That You Can't Leave Behind,Chicago Symphony Orchestra & Fritz Reiner,MPEG audio file,Latin,Music
+233,O Que Será (À Flor Da Terra),NULL,167288,5574848,0.99,All That You Can't Leave Behind,Chicago Symphony Orchestra & Fritz Reiner,MPEG audio file,Latin,Music
+234,Morena De Angola,NULL,186801,6373932,0.99,B-Sides 1980-1990,Orchestra of The Age of Enlightenment,MPEG audio file,Latin,Music
+234,Morena De Angola,NULL,186801,6373932,0.99,B-Sides 1980-1990,Orchestra of The Age of Enlightenment,MPEG audio file,Latin,Music
+235,Apesar De Você,NULL,234501,7886937,0.99,How To Dismantle An Atomic Bomb,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",MPEG audio file,Latin,Music
+235,Apesar De Você,NULL,234501,7886937,0.99,How To Dismantle An Atomic Bomb,"Emanuel Ax, Eugene Ormandy & Philadelphia Orchestra",MPEG audio file,Latin,Music
+236,A Banda,NULL,132493,4349539,0.99,Pop,James Levine,MPEG audio file,Latin,Music
+236,A Banda,NULL,132493,4349539,0.99,Pop,James Levine,MPEG audio file,Latin,Music
+236,A Banda,NULL,132493,4349539,0.99,Pop,James Levine,MPEG audio file,Latin,Brazilian Music
+237,Minha Historia,NULL,182256,6029673,0.99,Rattle And Hum,Berliner Philharmoniker & Hans Rosbaud,MPEG audio file,Latin,Music
+237,Minha Historia,NULL,182256,6029673,0.99,Rattle And Hum,Berliner Philharmoniker & Hans Rosbaud,MPEG audio file,Latin,Music
+238,Com Açúcar E Com Afeto,NULL,175386,5846442,0.99,The Best Of 1980-1990,Maurizio Pollini,MPEG audio file,Latin,Music
+238,Com Açúcar E Com Afeto,NULL,175386,5846442,0.99,The Best Of 1980-1990,Maurizio Pollini,MPEG audio file,Latin,Music
+239,Brejo Da Cruz,NULL,214099,7270749,0.99,War,"Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett",MPEG audio file,Latin,Music
+239,Brejo Da Cruz,NULL,214099,7270749,0.99,War,"Academy of St. Martin in the Fields, Sir Neville Marriner & William Bennett",MPEG audio file,Latin,Music
+240,Meu Caro Amigo,NULL,260257,8778172,0.99,Zooropa,Gustav Mahler,MPEG audio file,Latin,Music
+240,Meu Caro Amigo,NULL,260257,8778172,0.99,Zooropa,Gustav Mahler,MPEG audio file,Latin,Music
+241,Geni E O Zepelim,NULL,317570,10342226,0.99,UB40 The Best Of - Volume Two [UK],"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",MPEG audio file,Latin,Music
+241,Geni E O Zepelim,NULL,317570,10342226,0.99,UB40 The Best Of - Volume Two [UK],"Felix Schmidt, London Symphony Orchestra & Rafael Frühbeck de Burgos",MPEG audio file,Latin,Music
+242,Trocando Em Miúdos,NULL,169717,5461468,0.99,Diver Down,Edo de Waart & San Francisco Symphony,MPEG audio file,Latin,Music
+242,Trocando Em Miúdos,NULL,169717,5461468,0.99,Diver Down,Edo de Waart & San Francisco Symphony,MPEG audio file,Latin,Music
+243,Vai Trabalhar Vagabundo,NULL,139154,4693941,0.99,"The Best Of Van Halen, Vol. I",Antal Doráti & London Symphony Orchestra,MPEG audio file,Latin,Music
+243,Vai Trabalhar Vagabundo,NULL,139154,4693941,0.99,"The Best Of Van Halen, Vol. I",Antal Doráti & London Symphony Orchestra,MPEG audio file,Latin,Music
+244,Gota D'água,NULL,153208,5074189,0.99,Van Halen,Choir Of Westminster Abbey & Simon Preston,MPEG audio file,Latin,Music
+244,Gota D'água,NULL,153208,5074189,0.99,Van Halen,Choir Of Westminster Abbey & Simon Preston,MPEG audio file,Latin,Music
+245,Construção / Deus Lhe Pague,NULL,383059,12675305,0.99,Van Halen III,Michael Tilson Thomas & San Francisco Symphony,MPEG audio file,Latin,Music
+245,Construção / Deus Lhe Pague,NULL,383059,12675305,0.99,Van Halen III,Michael Tilson Thomas & San Francisco Symphony,MPEG audio file,Latin,Music
+246,Mateus Enter,Chico Science,33149,1103013,0.99,Contraband,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",MPEG audio file,Latin,Music
+246,Mateus Enter,Chico Science,33149,1103013,0.99,Contraband,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",MPEG audio file,Latin,90’s Music
+246,Mateus Enter,Chico Science,33149,1103013,0.99,Contraband,"Chor der Wiener Staatsoper, Herbert Von Karajan & Wiener Philharmoniker",MPEG audio file,Latin,Music
+247,O Cidadão Do Mundo,Chico Science,200933,6724966,0.99,Vinicius De Moraes,The King's Singers,MPEG audio file,Latin,Music
+247,O Cidadão Do Mundo,Chico Science,200933,6724966,0.99,Vinicius De Moraes,The King's Singers,MPEG audio file,Latin,90’s Music
+247,O Cidadão Do Mundo,Chico Science,200933,6724966,0.99,Vinicius De Moraes,The King's Singers,MPEG audio file,Latin,Music
+248,Etnia,Chico Science,152555,5061413,0.99,Ao Vivo [IMPORT],Berliner Philharmoniker & Herbert Von Karajan,MPEG audio file,Latin,Music
+248,Etnia,Chico Science,152555,5061413,0.99,Ao Vivo [IMPORT],Berliner Philharmoniker & Herbert Von Karajan,MPEG audio file,Latin,90’s Music
+248,Etnia,Chico Science,152555,5061413,0.99,Ao Vivo [IMPORT],Berliner Philharmoniker & Herbert Von Karajan,MPEG audio file,Latin,Music
+249,Quilombo Groove [Instrumental],Chico Science,151823,5042447,0.99,"The Office, Season 1","Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",MPEG audio file,Latin,Music
+249,Quilombo Groove [Instrumental],Chico Science,151823,5042447,0.99,"The Office, Season 1","Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",MPEG audio file,Latin,90’s Music
+249,Quilombo Groove [Instrumental],Chico Science,151823,5042447,0.99,"The Office, Season 1","Sir Georg Solti, Sumi Jo & Wiener Philharmoniker",MPEG audio file,Latin,Music
+250,Macô,Chico Science,249600,8253934,0.99,"The Office, Season 2",Christopher O'Riley,MPEG audio file,Latin,Music
+250,Macô,Chico Science,249600,8253934,0.99,"The Office, Season 2",Christopher O'Riley,MPEG audio file,Latin,90’s Music
+250,Macô,Chico Science,249600,8253934,0.99,"The Office, Season 2",Christopher O'Riley,MPEG audio file,Latin,Music
+251,Um Passeio No Mundo Livre,Chico Science,240091,7984291,0.99,"The Office, Season 3",Fretwork,MPEG audio file,Latin,Music
+251,Um Passeio No Mundo Livre,Chico Science,240091,7984291,0.99,"The Office, Season 3",Fretwork,MPEG audio file,Latin,90’s Music
+251,Um Passeio No Mundo Livre,Chico Science,240091,7984291,0.99,"The Office, Season 3",Fretwork,MPEG audio file,Latin,Music
+252,Samba Do Lado,Chico Science,227317,7541688,0.99,Un-Led-Ed,Amy Winehouse,MPEG audio file,Latin,Music
+252,Samba Do Lado,Chico Science,227317,7541688,0.99,Un-Led-Ed,Amy Winehouse,MPEG audio file,Latin,90’s Music
+252,Samba Do Lado,Chico Science,227317,7541688,0.99,Un-Led-Ed,Amy Winehouse,MPEG audio file,Latin,Music
+253,Maracatu Atômico,Chico Science,284264,9670057,0.99,"Battlestar Galactica (Classic), Season 1",Calexico,MPEG audio file,Latin,Music
+253,Maracatu Atômico,Chico Science,284264,9670057,0.99,"Battlestar Galactica (Classic), Season 1",Calexico,MPEG audio file,Latin,90’s Music
+253,Maracatu Atômico,Chico Science,284264,9670057,0.99,"Battlestar Galactica (Classic), Season 1",Calexico,MPEG audio file,Latin,Music
+254,O Encontro De Isaac Asimov Com Santos Dumont No Céu,Chico Science,99108,3240816,0.99,Aquaman,Otto Klemperer & Philharmonia Orchestra,MPEG audio file,Latin,Music
+254,O Encontro De Isaac Asimov Com Santos Dumont No Céu,Chico Science,99108,3240816,0.99,Aquaman,Otto Klemperer & Philharmonia Orchestra,MPEG audio file,Latin,90’s Music
+254,O Encontro De Isaac Asimov Com Santos Dumont No Céu,Chico Science,99108,3240816,0.99,Aquaman,Otto Klemperer & Philharmonia Orchestra,MPEG audio file,Latin,Music
+255,Corpo De Lama,Chico Science,232672,7714954,0.99,Instant Karma: The Amnesty International Campaign to Save Darfur,Yehudi Menuhin,MPEG audio file,Latin,Music
+255,Corpo De Lama,Chico Science,232672,7714954,0.99,Instant Karma: The Amnesty International Campaign to Save Darfur,Yehudi Menuhin,MPEG audio file,Latin,90’s Music
+255,Corpo De Lama,Chico Science,232672,7714954,0.99,Instant Karma: The Amnesty International Campaign to Save Darfur,Yehudi Menuhin,MPEG audio file,Latin,Music
+256,Sobremesa,Chico Science,240091,7960868,0.99,Speak of the Devil,Philharmonia Orchestra & Sir Neville Marriner,MPEG audio file,Latin,Music
+256,Sobremesa,Chico Science,240091,7960868,0.99,Speak of the Devil,Philharmonia Orchestra & Sir Neville Marriner,MPEG audio file,Latin,90’s Music
+256,Sobremesa,Chico Science,240091,7960868,0.99,Speak of the Devil,Philharmonia Orchestra & Sir Neville Marriner,MPEG audio file,Latin,Music
+257,Manguetown,Chico Science,194560,6475159,0.99,20th Century Masters - The Millennium Collection: The Best of Scorpions,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",MPEG audio file,Latin,Music
+257,Manguetown,Chico Science,194560,6475159,0.99,20th Century Masters - The Millennium Collection: The Best of Scorpions,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",MPEG audio file,Latin,90’s Music
+257,Manguetown,Chico Science,194560,6475159,0.99,20th Century Masters - The Millennium Collection: The Best of Scorpions,"Academy of St. Martin in the Fields, Sir Neville Marriner & Thurston Dart",MPEG audio file,Latin,Music
+258,Um Satélite Na Cabeça,Chico Science,126615,4272821,0.99,House of Pain,Les Arts Florissants & William Christie,MPEG audio file,Latin,Music
+258,Um Satélite Na Cabeça,Chico Science,126615,4272821,0.99,House of Pain,Les Arts Florissants & William Christie,MPEG audio file,Latin,90’s Music
+258,Um Satélite Na Cabeça,Chico Science,126615,4272821,0.99,House of Pain,Les Arts Florissants & William Christie,MPEG audio file,Latin,Music
+259,Baião Ambiental [Instrumental],Chico Science,152659,5198539,0.99,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,The 12 Cellists of The Berlin Philharmonic,MPEG audio file,Latin,Music
+259,Baião Ambiental [Instrumental],Chico Science,152659,5198539,0.99,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,The 12 Cellists of The Berlin Philharmonic,MPEG audio file,Latin,90’s Music
+259,Baião Ambiental [Instrumental],Chico Science,152659,5198539,0.99,Radio Brasil (O Som da Jovem Vanguarda) - Seleccao de Henrique Amaro,The 12 Cellists of The Berlin Philharmonic,MPEG audio file,Latin,Music
+260,Sangue De Bairro,Chico Science,132231,4415557,0.99,Cake: B-Sides and Rarities,Adrian Leaper & Doreen de Feis,MPEG audio file,Latin,Music
+260,Sangue De Bairro,Chico Science,132231,4415557,0.99,Cake: B-Sides and Rarities,Adrian Leaper & Doreen de Feis,MPEG audio file,Latin,90’s Music
+260,Sangue De Bairro,Chico Science,132231,4415557,0.99,Cake: B-Sides and Rarities,Adrian Leaper & Doreen de Feis,MPEG audio file,Latin,Music
+261,Enquanto O Mundo Explode,Chico Science,88764,2968650,0.99,"LOST, Season 4","Roger Norrington, London Classical Players",MPEG audio file,Latin,Music
+261,Enquanto O Mundo Explode,Chico Science,88764,2968650,0.99,"LOST, Season 4","Roger Norrington, London Classical Players",MPEG audio file,Latin,90’s Music
+261,Enquanto O Mundo Explode,Chico Science,88764,2968650,0.99,"LOST, Season 4","Roger Norrington, London Classical Players",MPEG audio file,Latin,Music
+262,Interlude Zumbi,Chico Science,71627,2408550,0.99,Quiet Songs,Charles Dutoit & L'Orchestre Symphonique de Montréal,MPEG audio file,Latin,Music
+262,Interlude Zumbi,Chico Science,71627,2408550,0.99,Quiet Songs,Charles Dutoit & L'Orchestre Symphonique de Montréal,MPEG audio file,Latin,90’s Music
+262,Interlude Zumbi,Chico Science,71627,2408550,0.99,Quiet Songs,Charles Dutoit & L'Orchestre Symphonique de Montréal,MPEG audio file,Latin,Music
+263,Criança De Domingo,Chico Science,208222,6984813,0.99,Muso Ko,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",MPEG audio file,Latin,Music
+263,Criança De Domingo,Chico Science,208222,6984813,0.99,Muso Ko,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",MPEG audio file,Latin,90’s Music
+263,Criança De Domingo,Chico Science,208222,6984813,0.99,Muso Ko,"Equale Brass Ensemble, John Eliot Gardiner & Munich Monteverdi Orchestra and Choir",MPEG audio file,Latin,Music
+264,Amor De Muito,Chico Science,175333,5881293,0.99,Realize,Kent Nagano and Orchestre de l'Opéra de Lyon,MPEG audio file,Latin,Music
+264,Amor De Muito,Chico Science,175333,5881293,0.99,Realize,Kent Nagano and Orchestre de l'Opéra de Lyon,MPEG audio file,Latin,90’s Music
+264,Amor De Muito,Chico Science,175333,5881293,0.99,Realize,Kent Nagano and Orchestre de l'Opéra de Lyon,MPEG audio file,Latin,Music
+265,Samidarish [Instrumental],Chico Science,272431,8911641,0.99,Every Kind of Light,Julian Bream,MPEG audio file,Latin,Music
+265,Samidarish [Instrumental],Chico Science,272431,8911641,0.99,Every Kind of Light,Julian Bream,MPEG audio file,Latin,90’s Music
+265,Samidarish [Instrumental],Chico Science,272431,8911641,0.99,Every Kind of Light,Julian Bream,MPEG audio file,Latin,Music
+266,Maracatu Atômico [Atomic Version],Chico Science,273084,9019677,0.99,Duos II,Martin Roscoe,MPEG audio file,Latin,Music
+266,Maracatu Atômico [Atomic Version],Chico Science,273084,9019677,0.99,Duos II,Martin Roscoe,MPEG audio file,Latin,90’s Music
+266,Maracatu Atômico [Atomic Version],Chico Science,273084,9019677,0.99,Duos II,Martin Roscoe,MPEG audio file,Latin,Music
+267,Maracatu Atômico [Ragga Mix],Chico Science,210155,6986421,0.99,Worlds,Göteborgs Symfoniker & Neeme Järvi,MPEG audio file,Latin,Music
+267,Maracatu Atômico [Ragga Mix],Chico Science,210155,6986421,0.99,Worlds,Göteborgs Symfoniker & Neeme Järvi,MPEG audio file,Latin,90’s Music
+267,Maracatu Atômico [Ragga Mix],Chico Science,210155,6986421,0.99,Worlds,Göteborgs Symfoniker & Neeme Järvi,MPEG audio file,Latin,Music
+268,Maracatu Atômico [Trip Hop],Chico Science,221492,7380787,0.99,The Best of Beethoven,Itzhak Perlman,MPEG audio file,Latin,Music
+268,Maracatu Atômico [Trip Hop],Chico Science,221492,7380787,0.99,The Best of Beethoven,Itzhak Perlman,MPEG audio file,Latin,90’s Music
+268,Maracatu Atômico [Trip Hop],Chico Science,221492,7380787,0.99,The Best of Beethoven,Itzhak Perlman,MPEG audio file,Latin,Music
+269,Banditismo Por Uma Questa,NULL,307095,10251097,0.99,Temple of the Dog,Michele Campanella,MPEG audio file,Latin,Music
+269,Banditismo Por Uma Questa,NULL,307095,10251097,0.99,Temple of the Dog,Michele Campanella,MPEG audio file,Latin,90’s Music
+269,Banditismo Por Uma Questa,NULL,307095,10251097,0.99,Temple of the Dog,Michele Campanella,MPEG audio file,Latin,Music
+270,Banditismo Por Uma Questa,NULL,243644,8147224,0.99,Carry On,Gerald Moore,MPEG audio file,Latin,Music
+270,Banditismo Por Uma Questa,NULL,243644,8147224,0.99,Carry On,Gerald Moore,MPEG audio file,Latin,90’s Music
+270,Banditismo Por Uma Questa,NULL,243644,8147224,0.99,Carry On,Gerald Moore,MPEG audio file,Latin,Music
+271,Rios Pontes & Overdrives,NULL,286720,9659152,0.99,Revelations,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp",MPEG audio file,Latin,Music
+271,Rios Pontes & Overdrives,NULL,286720,9659152,0.99,Revelations,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp",MPEG audio file,Latin,90’s Music
+271,Rios Pontes & Overdrives,NULL,286720,9659152,0.99,Revelations,"Mela Tenenbaum, Pro Musica Prague & Richard Kapp",MPEG audio file,Latin,Music
+272,Cidade,NULL,216346,7241817,0.99,Adorate Deum: Gregorian Chant from the Proper of the Mass,Emerson String Quartet,MPEG audio file,Latin,Music
+272,Cidade,NULL,216346,7241817,0.99,Adorate Deum: Gregorian Chant from the Proper of the Mass,Emerson String Quartet,MPEG audio file,Latin,90’s Music
+272,Cidade,NULL,216346,7241817,0.99,Adorate Deum: Gregorian Chant from the Proper of the Mass,Emerson String Quartet,MPEG audio file,Latin,Music
+273,Praiera,NULL,183640,6172781,0.99,Allegri: Miserere,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",MPEG audio file,Latin,Music
+273,Praiera,NULL,183640,6172781,0.99,Allegri: Miserere,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",MPEG audio file,Latin,90’s Music
+273,Praiera,NULL,183640,6172781,0.99,Allegri: Miserere,"C. Monteverdi, Nigel Rogers - Chiaroscuro; London Baroque; London Cornett & Sackbu",MPEG audio file,Latin,Music
+274,Samba Makossa,NULL,271856,9095410,0.99,Pachelbel: Canon & Gigue,Nash Ensemble,MPEG audio file,Latin,Music
+274,Samba Makossa,NULL,271856,9095410,0.99,Pachelbel: Canon & Gigue,Nash Ensemble,MPEG audio file,Latin,90’s Music
+274,Samba Makossa,NULL,271856,9095410,0.99,Pachelbel: Canon & Gigue,Nash Ensemble,MPEG audio file,Latin,Music
+275,Da Lama Ao Caos,NULL,251559,8378065,0.99,Vivaldi: The Four Seasons,Philip Glass Ensemble,MPEG audio file,Latin,Music
+275,Da Lama Ao Caos,NULL,251559,8378065,0.99,Vivaldi: The Four Seasons,Philip Glass Ensemble,MPEG audio file,Latin,90’s Music
+275,Da Lama Ao Caos,NULL,251559,8378065,0.99,Vivaldi: The Four Seasons,Philip Glass Ensemble,MPEG audio file,Latin,Music
+276,Maracatu De Tiro Certeiro,NULL,88868,2901397,0.99,Bach: Violin Concertos,NULL,MPEG audio file,Latin,Music
+276,Maracatu De Tiro Certeiro,NULL,88868,2901397,0.99,Bach: Violin Concertos,NULL,MPEG audio file,Latin,90’s Music
+276,Maracatu De Tiro Certeiro,NULL,88868,2901397,0.99,Bach: Violin Concertos,NULL,MPEG audio file,Latin,Music
+277,Salustiano Song,NULL,215405,7183969,0.99,Bach: Goldberg Variations,NULL,MPEG audio file,Latin,Music
+277,Salustiano Song,NULL,215405,7183969,0.99,Bach: Goldberg Variations,NULL,MPEG audio file,Latin,90’s Music
+277,Salustiano Song,NULL,215405,7183969,0.99,Bach: Goldberg Variations,NULL,MPEG audio file,Latin,Music
+278,Antene Se,NULL,248372,8253618,0.99,Bach: The Cello Suites,NULL,MPEG audio file,Latin,Music
+278,Antene Se,NULL,248372,8253618,0.99,Bach: The Cello Suites,NULL,MPEG audio file,Latin,90’s Music
+278,Antene Se,NULL,248372,8253618,0.99,Bach: The Cello Suites,NULL,MPEG audio file,Latin,Music
+279,Risoflora,NULL,105586,3536938,0.99,Handel: The Messiah (Highlights),NULL,MPEG audio file,Latin,Music
+279,Risoflora,NULL,105586,3536938,0.99,Handel: The Messiah (Highlights),NULL,MPEG audio file,Latin,90’s Music
+279,Risoflora,NULL,105586,3536938,0.99,Handel: The Messiah (Highlights),NULL,MPEG audio file,Latin,Music
+280,Lixo Do Mangue,NULL,193253,6534200,0.99,The World of Classical Favourites,NULL,MPEG audio file,Latin,Music
+280,Lixo Do Mangue,NULL,193253,6534200,0.99,The World of Classical Favourites,NULL,MPEG audio file,Latin,90’s Music
+280,Lixo Do Mangue,NULL,193253,6534200,0.99,The World of Classical Favourites,NULL,MPEG audio file,Latin,Music
+281,Computadores Fazem Arte,NULL,404323,13702771,0.99,Sir Neville Marriner: A Celebration,NULL,MPEG audio file,Latin,Music
+281,Computadores Fazem Arte,NULL,404323,13702771,0.99,Sir Neville Marriner: A Celebration,NULL,MPEG audio file,Latin,90’s Music
+281,Computadores Fazem Arte,NULL,404323,13702771,0.99,Sir Neville Marriner: A Celebration,NULL,MPEG audio file,Latin,Music
+282,Girassol,Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido,249808,8327676,0.99,Mozart: Wind Concertos,NULL,MPEG audio file,Reggae,Music
+282,Girassol,Bino Farias/Da Gama/Lazão/Pedro Luis/Toni Garrido,249808,8327676,0.99,Mozart: Wind Concertos,NULL,MPEG audio file,Reggae,Music
+283,A Sombra Da Maldade,Da Gama/Toni Garrido,230922,7697230,0.99,Haydn: Symphonies 99 - 104,NULL,MPEG audio file,Reggae,Music
+283,A Sombra Da Maldade,Da Gama/Toni Garrido,230922,7697230,0.99,Haydn: Symphonies 99 - 104,NULL,MPEG audio file,Reggae,Music
+284,Johnny B. Goode,Chuck Berry,254615,8505985,0.99,Beethoven: Symhonies Nos. 5 & 6,NULL,MPEG audio file,Reggae,Music
+284,Johnny B. Goode,Chuck Berry,254615,8505985,0.99,Beethoven: Symhonies Nos. 5 & 6,NULL,MPEG audio file,Reggae,Music
+285,Soldado Da Paz,Herbert Vianna,194220,6455080,0.99,A Soprano Inspired,NULL,MPEG audio file,Reggae,Music
+285,Soldado Da Paz,Herbert Vianna,194220,6455080,0.99,A Soprano Inspired,NULL,MPEG audio file,Reggae,Music
+286,Firmamento,Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers,222145,7402658,0.99,Great Opera Choruses,NULL,MPEG audio file,Reggae,Music
+286,Firmamento,Bino Farias/Da Gama/Henry Lawes/Lazão/Toni Garrido/Winston Foser-Vers,222145,7402658,0.99,Great Opera Choruses,NULL,MPEG audio file,Reggae,Music
+287,Extra,Gilberto Gil,304352,10078050,0.99,Wagner: Favourite Overtures,NULL,MPEG audio file,Reggae,Music
+287,Extra,Gilberto Gil,304352,10078050,0.99,Wagner: Favourite Overtures,NULL,MPEG audio file,Reggae,Music
+288,O Erê,Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido,236382,7866924,0.99,"Fauré: Requiem, Ravel: Pavane & Others",NULL,MPEG audio file,Reggae,Music
+288,O Erê,Bernardo Vilhena/Bino Farias/Da Gama/Lazão/Toni Garrido,236382,7866924,0.99,"Fauré: Requiem, Ravel: Pavane & Others",NULL,MPEG audio file,Reggae,Music
+289,Podes Crer,Bino Farias/Da Gama/Lazão/Toni Garrido,232280,7747747,0.99,Tchaikovsky: The Nutcracker,NULL,MPEG audio file,Reggae,Music
+289,Podes Crer,Bino Farias/Da Gama/Lazão/Toni Garrido,232280,7747747,0.99,Tchaikovsky: The Nutcracker,NULL,MPEG audio file,Reggae,Music
+290,A Estrada,Bino Farias/Da Gama/Lazão/Toni Garrido,248842,8275673,0.99,The Last Night of the Proms,NULL,MPEG audio file,Reggae,Music
+290,A Estrada,Bino Farias/Da Gama/Lazão/Toni Garrido,248842,8275673,0.99,The Last Night of the Proms,NULL,MPEG audio file,Reggae,Music
+291,Berlim,Da Gama/Toni Garrido,207542,6920424,0.99,Puccini: Madama Butterfly - Highlights,NULL,MPEG audio file,Reggae,Music
+291,Berlim,Da Gama/Toni Garrido,207542,6920424,0.99,Puccini: Madama Butterfly - Highlights,NULL,MPEG audio file,Reggae,Music
+292,Já Foi,Bino Farias/Da Gama/Lazão/Toni Garrido,221544,7388466,0.99,"Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies",NULL,MPEG audio file,Reggae,Music
+292,Já Foi,Bino Farias/Da Gama/Lazão/Toni Garrido,221544,7388466,0.99,"Holst: The Planets, Op. 32 & Vaughan Williams: Fantasies",NULL,MPEG audio file,Reggae,Music
+293,Onde Você Mora?,Marisa Monte/Nando Reis,256026,8502588,0.99,Pavarotti's Opera Made Easy,NULL,MPEG audio file,Reggae,Music
+293,Onde Você Mora?,Marisa Monte/Nando Reis,256026,8502588,0.99,Pavarotti's Opera Made Easy,NULL,MPEG audio file,Reggae,Music
+294,Pensamento,Bino Farias/Da Gamma/Lazão/Rás Bernard,173008,5748424,0.99,Great Performances - Barber's Adagio and Other Romantic Favorites for Strings,NULL,MPEG audio file,Reggae,Music
+294,Pensamento,Bino Farias/Da Gamma/Lazão/Rás Bernard,173008,5748424,0.99,Great Performances - Barber's Adagio and Other Romantic Favorites for Strings,NULL,MPEG audio file,Reggae,Music
+295,Conciliação,Da Gama/Lazão/Rás Bernardo,257619,8552474,0.99,Carmina Burana,NULL,MPEG audio file,Reggae,Music
+295,Conciliação,Da Gama/Lazão/Rás Bernardo,257619,8552474,0.99,Carmina Burana,NULL,MPEG audio file,Reggae,Music
+296,Realidade Virtual,Bino Farias/Da Gama/Lazão/Toni Garrido,195239,6503533,0.99,"A Copland Celebration, Vol. I",NULL,MPEG audio file,Reggae,Music
+296,Realidade Virtual,Bino Farias/Da Gama/Lazão/Toni Garrido,195239,6503533,0.99,"A Copland Celebration, Vol. I",NULL,MPEG audio file,Reggae,Music
+297,Mensagem,Bino Farias/Da Gama/Lazão/Rás Bernardo,225332,7488852,0.99,Bach: Toccata & Fugue in D Minor,NULL,MPEG audio file,Reggae,Music
+297,Mensagem,Bino Farias/Da Gama/Lazão/Rás Bernardo,225332,7488852,0.99,Bach: Toccata & Fugue in D Minor,NULL,MPEG audio file,Reggae,Music
+298,A Cor Do Sol,Bernardo Vilhena/Da Gama/Lazão,231392,7663348,0.99,Prokofiev: Symphony No.1,NULL,MPEG audio file,Reggae,Music
+298,A Cor Do Sol,Bernardo Vilhena/Da Gama/Lazão,231392,7663348,0.99,Prokofiev: Symphony No.1,NULL,MPEG audio file,Reggae,Music
+299,Onde Você Mora?,Marisa Monte/Nando Reis,298396,10056970,0.99,Scheherazade,NULL,MPEG audio file,Reggae,Music
+299,Onde Você Mora?,Marisa Monte/Nando Reis,298396,10056970,0.99,Scheherazade,NULL,MPEG audio file,Reggae,90’s Music
+299,Onde Você Mora?,Marisa Monte/Nando Reis,298396,10056970,0.99,Scheherazade,NULL,MPEG audio file,Reggae,Music
+300,O Erê,Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido,206942,6950332,0.99,Bach: The Brandenburg Concertos,NULL,MPEG audio file,Reggae,Music
+300,O Erê,Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido,206942,6950332,0.99,Bach: The Brandenburg Concertos,NULL,MPEG audio file,Reggae,90’s Music
+300,O Erê,Bernardo Vilhena/Bino/Da Gama/Lazao/Toni Garrido,206942,6950332,0.99,Bach: The Brandenburg Concertos,NULL,MPEG audio file,Reggae,Music
+301,A Sombra Da Maldade,Da Gama/Toni Garrido,285231,9544383,0.99,Chopin: Piano Concertos Nos. 1 & 2,NULL,MPEG audio file,Reggae,Music
+301,A Sombra Da Maldade,Da Gama/Toni Garrido,285231,9544383,0.99,Chopin: Piano Concertos Nos. 1 & 2,NULL,MPEG audio file,Reggae,90’s Music
+301,A Sombra Da Maldade,Da Gama/Toni Garrido,285231,9544383,0.99,Chopin: Piano Concertos Nos. 1 & 2,NULL,MPEG audio file,Reggae,Music
+302,A Estrada,Da Gama/Lazao/Toni Garrido,282174,9344477,0.99,Mascagni: Cavalleria Rusticana,NULL,MPEG audio file,Reggae,Music
+302,A Estrada,Da Gama/Lazao/Toni Garrido,282174,9344477,0.99,Mascagni: Cavalleria Rusticana,NULL,MPEG audio file,Reggae,90’s Music
+302,A Estrada,Da Gama/Lazao/Toni Garrido,282174,9344477,0.99,Mascagni: Cavalleria Rusticana,NULL,MPEG audio file,Reggae,Music
+303,Falar A Verdade,Bino/Da Gama/Ras Bernardo,244950,8189093,0.99,Sibelius: Finlandia,NULL,MPEG audio file,Reggae,Music
+303,Falar A Verdade,Bino/Da Gama/Ras Bernardo,244950,8189093,0.99,Sibelius: Finlandia,NULL,MPEG audio file,Reggae,90’s Music
+303,Falar A Verdade,Bino/Da Gama/Ras Bernardo,244950,8189093,0.99,Sibelius: Finlandia,NULL,MPEG audio file,Reggae,Music
+304,Firmamento,Harry Lawes/Winston Foster-Vers,225488,7507866,0.99,Beethoven Piano Sonatas: Moonlight & Pastorale,NULL,MPEG audio file,Reggae,Music
+304,Firmamento,Harry Lawes/Winston Foster-Vers,225488,7507866,0.99,Beethoven Piano Sonatas: Moonlight & Pastorale,NULL,MPEG audio file,Reggae,90’s Music
+304,Firmamento,Harry Lawes/Winston Foster-Vers,225488,7507866,0.99,Beethoven Piano Sonatas: Moonlight & Pastorale,NULL,MPEG audio file,Reggae,Music
+305,Pensamento,Bino/Da Gama/Ras Bernardo,192391,6399761,0.99,Great Recordings of the Century - Mahler: Das Lied von der Erde,NULL,MPEG audio file,Reggae,Music
+305,Pensamento,Bino/Da Gama/Ras Bernardo,192391,6399761,0.99,Great Recordings of the Century - Mahler: Das Lied von der Erde,NULL,MPEG audio file,Reggae,90’s Music
+305,Pensamento,Bino/Da Gama/Ras Bernardo,192391,6399761,0.99,Great Recordings of the Century - Mahler: Das Lied von der Erde,NULL,MPEG audio file,Reggae,Music
+306,Realidade Virtual,Bino/Da Gamma/Lazao/Toni Garrido,240300,8069934,0.99,Elgar: Cello Concerto & Vaughan Williams: Fantasias,NULL,MPEG audio file,Reggae,Music
+306,Realidade Virtual,Bino/Da Gamma/Lazao/Toni Garrido,240300,8069934,0.99,Elgar: Cello Concerto & Vaughan Williams: Fantasias,NULL,MPEG audio file,Reggae,90’s Music
+306,Realidade Virtual,Bino/Da Gamma/Lazao/Toni Garrido,240300,8069934,0.99,Elgar: Cello Concerto & Vaughan Williams: Fantasias,NULL,MPEG audio file,Reggae,Music
+307,Doutor,Bino/Da Gama/Toni Garrido,178155,5950952,0.99,"Adams, John: The Chairman Dances",NULL,MPEG audio file,Reggae,Music
+307,Doutor,Bino/Da Gama/Toni Garrido,178155,5950952,0.99,"Adams, John: The Chairman Dances",NULL,MPEG audio file,Reggae,90’s Music
+307,Doutor,Bino/Da Gama/Toni Garrido,178155,5950952,0.99,"Adams, John: The Chairman Dances",NULL,MPEG audio file,Reggae,Music
+308,Na Frente Da TV,Bino/Da Gama/Lazao/Ras Bernardo,289750,9633659,0.99,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",NULL,MPEG audio file,Reggae,Music
+308,Na Frente Da TV,Bino/Da Gama/Lazao/Ras Bernardo,289750,9633659,0.99,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",NULL,MPEG audio file,Reggae,90’s Music
+308,Na Frente Da TV,Bino/Da Gama/Lazao/Ras Bernardo,289750,9633659,0.99,"Tchaikovsky: 1812 Festival Overture, Op.49, Capriccio Italien & Beethoven: Wellington's Victory",NULL,MPEG audio file,Reggae,Music
+309,Downtown,Cidade Negra,239725,8024386,0.99,Palestrina: Missa Papae Marcelli & Allegri: Miserere,NULL,MPEG audio file,Reggae,Music
+309,Downtown,Cidade Negra,239725,8024386,0.99,Palestrina: Missa Papae Marcelli & Allegri: Miserere,NULL,MPEG audio file,Reggae,90’s Music
+309,Downtown,Cidade Negra,239725,8024386,0.99,Palestrina: Missa Papae Marcelli & Allegri: Miserere,NULL,MPEG audio file,Reggae,Music
+310,Sábado A Noite,Lulu Santos,267363,8895073,0.99,Prokofiev: Romeo & Juliet,NULL,MPEG audio file,Reggae,Music
+310,Sábado A Noite,Lulu Santos,267363,8895073,0.99,Prokofiev: Romeo & Juliet,NULL,MPEG audio file,Reggae,90’s Music
+310,Sábado A Noite,Lulu Santos,267363,8895073,0.99,Prokofiev: Romeo & Juliet,NULL,MPEG audio file,Reggae,Music
+311,A Cor Do Sol,Bernardo Vilhena/Da Gama/Lazao,273031,9142937,0.99,Strauss: Waltzes,NULL,MPEG audio file,Reggae,Music
+311,A Cor Do Sol,Bernardo Vilhena/Da Gama/Lazao,273031,9142937,0.99,Strauss: Waltzes,NULL,MPEG audio file,Reggae,90’s Music
+311,A Cor Do Sol,Bernardo Vilhena/Da Gama/Lazao,273031,9142937,0.99,Strauss: Waltzes,NULL,MPEG audio file,Reggae,Music
+312,Eu Também Quero Beijar,Fausto Nilo/Moraes Moreira/Pepeu Gomes,211147,7029400,0.99,Berlioz: Symphonie Fantastique,NULL,MPEG audio file,Reggae,Music
+312,Eu Também Quero Beijar,Fausto Nilo/Moraes Moreira/Pepeu Gomes,211147,7029400,0.99,Berlioz: Symphonie Fantastique,NULL,MPEG audio file,Reggae,90’s Music
+312,Eu Também Quero Beijar,Fausto Nilo/Moraes Moreira/Pepeu Gomes,211147,7029400,0.99,Berlioz: Symphonie Fantastique,NULL,MPEG audio file,Reggae,Music
+313,Noite Do Prazer,NULL,311353,10309980,0.99,Bizet: Carmen Highlights,NULL,MPEG audio file,Latin,Music
+313,Noite Do Prazer,NULL,311353,10309980,0.99,Bizet: Carmen Highlights,NULL,MPEG audio file,Latin,Music
+314,À Francesa,NULL,244532,8150846,0.99,English Renaissance,NULL,MPEG audio file,Latin,Music
+314,À Francesa,NULL,244532,8150846,0.99,English Renaissance,NULL,MPEG audio file,Latin,Music
+315,Cada Um Cada Um (A Namoradeira),NULL,253492,8441034,0.99,Handel: Music for the Royal Fireworks (Original Version 1749),NULL,MPEG audio file,Latin,Music
+315,Cada Um Cada Um (A Namoradeira),NULL,253492,8441034,0.99,Handel: Music for the Royal Fireworks (Original Version 1749),NULL,MPEG audio file,Latin,Music
+316,Linha Do Equador,NULL,244715,8123466,0.99,Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande,NULL,MPEG audio file,Latin,Music
+316,Linha Do Equador,NULL,244715,8123466,0.99,Grieg: Peer Gynt Suites & Sibelius: Pelléas et Mélisande,NULL,MPEG audio file,Latin,Music
+317,Amor Demais,NULL,254040,8420093,0.99,Mozart Gala: Famous Arias,NULL,MPEG audio file,Latin,Music
+317,Amor Demais,NULL,254040,8420093,0.99,Mozart Gala: Famous Arias,NULL,MPEG audio file,Latin,Music
+318,Férias,NULL,264202,8731945,0.99,SCRIABIN: Vers la flamme,NULL,MPEG audio file,Latin,Music
+318,Férias,NULL,264202,8731945,0.99,SCRIABIN: Vers la flamme,NULL,MPEG audio file,Latin,Music
+319,Gostava Tanto De Você,NULL,230452,7685326,0.99,Armada: Music from the Courts of England and Spain,NULL,MPEG audio file,Latin,Music
+319,Gostava Tanto De Você,NULL,230452,7685326,0.99,Armada: Music from the Courts of England and Spain,NULL,MPEG audio file,Latin,Music
+320,Flor Do Futuro,NULL,275748,9205941,0.99,Mozart: Symphonies Nos. 40 & 41,NULL,MPEG audio file,Latin,Music
+320,Flor Do Futuro,NULL,275748,9205941,0.99,Mozart: Symphonies Nos. 40 & 41,NULL,MPEG audio file,Latin,Music
+321,Felicidade Urgente,NULL,266605,8873358,0.99,Back to Black,NULL,MPEG audio file,Latin,Music
+321,Felicidade Urgente,NULL,266605,8873358,0.99,Back to Black,NULL,MPEG audio file,Latin,Music
+322,Livre Pra Viver,NULL,214595,7111596,0.99,Frank,NULL,MPEG audio file,Latin,Music
+322,Livre Pra Viver,NULL,214595,7111596,0.99,Frank,NULL,MPEG audio file,Latin,Music
+323,"Dig-Dig, Lambe-Lambe (Ao Vivo)",Cassiano Costa/Cintia Maviane/J.F./Lucas Costa,205479,6892516,0.99,Carried to Dust (Bonus Track Version),NULL,MPEG audio file,Pop,Music
+323,"Dig-Dig, Lambe-Lambe (Ao Vivo)",Cassiano Costa/Cintia Maviane/J.F./Lucas Costa,205479,6892516,0.99,Carried to Dust (Bonus Track Version),NULL,MPEG audio file,Pop,Music
+324,Pererê,Augusto Conceição/Chiclete Com Banana,198661,6643207,0.99,Beethoven: Symphony No. 6 'Pastoral' Etc.,NULL,MPEG audio file,Pop,Music
+324,Pererê,Augusto Conceição/Chiclete Com Banana,198661,6643207,0.99,Beethoven: Symphony No. 6 'Pastoral' Etc.,NULL,MPEG audio file,Pop,Music
+325,TriboTchan,Cal Adan/Paulo Levi,194194,6507950,0.99,Bartok: Violin & Viola Concertos,NULL,MPEG audio file,Pop,Music
+325,TriboTchan,Cal Adan/Paulo Levi,194194,6507950,0.99,Bartok: Violin & Viola Concertos,NULL,MPEG audio file,Pop,Music
+326,"Tapa Aqui, Descobre Ali",Paulo Levi/W. Rangel,188630,6327391,0.99,Mendelssohn: A Midsummer Night's Dream,NULL,MPEG audio file,Pop,Music
+326,"Tapa Aqui, Descobre Ali",Paulo Levi/W. Rangel,188630,6327391,0.99,Mendelssohn: A Midsummer Night's Dream,NULL,MPEG audio file,Pop,Music
+327,Daniela,Jorge Cardoso/Pierre Onasis,230791,7748006,0.99,Bach: Orchestral Suites Nos. 1 - 4,NULL,MPEG audio file,Pop,Music
+327,Daniela,Jorge Cardoso/Pierre Onasis,230791,7748006,0.99,Bach: Orchestral Suites Nos. 1 - 4,NULL,MPEG audio file,Pop,Music
+328,Bate Lata,Fábio Nolasco/Gal Sales/Ivan Brasil,206733,7034985,0.99,"Charpentier: Divertissements, Airs & Concerts",NULL,MPEG audio file,Pop,Music
+328,Bate Lata,Fábio Nolasco/Gal Sales/Ivan Brasil,206733,7034985,0.99,"Charpentier: Divertissements, Airs & Concerts",NULL,MPEG audio file,Pop,Music
+329,Garotas do Brasil,"Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira",210155,6973625,0.99,South American Getaway,NULL,MPEG audio file,Pop,Music
+329,Garotas do Brasil,"Garay, Ricardo Engels/Luca Predabom/Ludwig, Carlos Henrique/Maurício Vieira",210155,6973625,0.99,South American Getaway,NULL,MPEG audio file,Pop,Music
+330,Levada do Amor (Ailoviu),Luiz Wanderley/Paulo Levi,190093,6457752,0.99,Górecki: Symphony No. 3,NULL,MPEG audio file,Pop,Music
+330,Levada do Amor (Ailoviu),Luiz Wanderley/Paulo Levi,190093,6457752,0.99,Górecki: Symphony No. 3,NULL,MPEG audio file,Pop,Music
+331,Lavadeira,"Do Vale, Valverde/Gal Oliveira/Luciano Pinto",214256,7254147,0.99,Purcell: The Fairy Queen,NULL,MPEG audio file,Pop,Music
+331,Lavadeira,"Do Vale, Valverde/Gal Oliveira/Luciano Pinto",214256,7254147,0.99,Purcell: The Fairy Queen,NULL,MPEG audio file,Pop,Music
+332,Reboladeira,Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill,210599,7027525,0.99,The Ultimate Relexation Album,NULL,MPEG audio file,Pop,Music
+332,Reboladeira,Cal Adan/Ferrugem/Julinho Carioca/Tríona Ní Dhomhnaill,210599,7027525,0.99,The Ultimate Relexation Album,NULL,MPEG audio file,Pop,Music
+333,É que Nessa Encarnação Eu Nasci Manga,Lucina/Luli,196519,6568081,0.99,Purcell: Music for the Queen Mary,NULL,MPEG audio file,Pop,Music
+333,É que Nessa Encarnação Eu Nasci Manga,Lucina/Luli,196519,6568081,0.99,Purcell: Music for the Queen Mary,NULL,MPEG audio file,Pop,Music
+334,Reggae Tchan,"Cal Adan/Del Rey, Tension/Edu Casanova",206654,6931328,0.99,Weill: The Seven Deadly Sins,NULL,MPEG audio file,Pop,Music
+334,Reggae Tchan,"Cal Adan/Del Rey, Tension/Edu Casanova",206654,6931328,0.99,Weill: The Seven Deadly Sins,NULL,MPEG audio file,Pop,Music
+335,My Love,Jauperi/Zeu Góes,203493,6772813,0.99,"J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro",NULL,MPEG audio file,Pop,Music
+335,My Love,Jauperi/Zeu Góes,203493,6772813,0.99,"J.S. Bach: Chaconne, Suite in E Minor, Partita in E Major & Prelude, Fugue and Allegro",NULL,MPEG audio file,Pop,Music
+336,Latinha de Cerveja,Adriano Bernandes/Edmar Neves,166687,5532564,0.99,Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps,NULL,MPEG audio file,Pop,Music
+336,Latinha de Cerveja,Adriano Bernandes/Edmar Neves,166687,5532564,0.99,Prokofiev: Symphony No.5 & Stravinksy: Le Sacre Du Printemps,NULL,MPEG audio file,Pop,Music
+337,You Shook Me,J B Lenoir/Willie Dixon,315951,10249958,0.99,"Szymanowski: Piano Works, Vol. 1",NULL,MPEG audio file,Rock,Music
+337,You Shook Me,J B Lenoir/Willie Dixon,315951,10249958,0.99,"Szymanowski: Piano Works, Vol. 1",NULL,MPEG audio file,Rock,90’s Music
+337,You Shook Me,J B Lenoir/Willie Dixon,315951,10249958,0.99,"Szymanowski: Piano Works, Vol. 1",NULL,MPEG audio file,Rock,Music
+338,I Can't Quit You Baby,Willie Dixon,263836,8581414,0.99,Nielsen: The Six Symphonies,NULL,MPEG audio file,Rock,Music
+338,I Can't Quit You Baby,Willie Dixon,263836,8581414,0.99,Nielsen: The Six Symphonies,NULL,MPEG audio file,Rock,90’s Music
+338,I Can't Quit You Baby,Willie Dixon,263836,8581414,0.99,Nielsen: The Six Symphonies,NULL,MPEG audio file,Rock,Music
+339,Communication Breakdown,Jimmy Page/John Bonham/John Paul Jones,192653,6287257,0.99,Great Recordings of the Century: Paganini's 24 Caprices,NULL,MPEG audio file,Rock,Music
+339,Communication Breakdown,Jimmy Page/John Bonham/John Paul Jones,192653,6287257,0.99,Great Recordings of the Century: Paganini's 24 Caprices,NULL,MPEG audio file,Rock,90’s Music
+339,Communication Breakdown,Jimmy Page/John Bonham/John Paul Jones,192653,6287257,0.99,Great Recordings of the Century: Paganini's 24 Caprices,NULL,MPEG audio file,Rock,Music
+340,Dazed and Confused,Jimmy Page,401920,13035765,0.99,Liszt - 12 Études D'Execution Transcendante,NULL,MPEG audio file,Rock,Music
+340,Dazed and Confused,Jimmy Page,401920,13035765,0.99,Liszt - 12 Études D'Execution Transcendante,NULL,MPEG audio file,Rock,90’s Music
+340,Dazed and Confused,Jimmy Page,401920,13035765,0.99,Liszt - 12 Études D'Execution Transcendante,NULL,MPEG audio file,Rock,Music
+341,The Girl I Love She Got Long Black Wavy Hair,Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant,183327,5995686,0.99,"Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder",NULL,MPEG audio file,Rock,Music
+341,The Girl I Love She Got Long Black Wavy Hair,Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant,183327,5995686,0.99,"Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder",NULL,MPEG audio file,Rock,90’s Music
+341,The Girl I Love She Got Long Black Wavy Hair,Jimmy Page/John Bonham/John Estes/John Paul Jones/Robert Plant,183327,5995686,0.99,"Great Recordings of the Century - Shubert: Schwanengesang, 4 Lieder",NULL,MPEG audio file,Rock,Music
+342,What is and Should Never Be,Jimmy Page/Robert Plant,260675,8497116,0.99,"Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3",NULL,MPEG audio file,Rock,Music
+342,What is and Should Never Be,Jimmy Page/Robert Plant,260675,8497116,0.99,"Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3",NULL,MPEG audio file,Rock,90’s Music
+342,What is and Should Never Be,Jimmy Page/Robert Plant,260675,8497116,0.99,"Locatelli: Concertos for Violin, Strings and Continuo, Vol. 3",NULL,MPEG audio file,Rock,Music
+343,Communication Breakdown(2),Jimmy Page/John Bonham/John Paul Jones,161149,5261022,0.99,Respighi:Pines of Rome,NULL,MPEG audio file,Rock,Music
+343,Communication Breakdown(2),Jimmy Page/John Bonham/John Paul Jones,161149,5261022,0.99,Respighi:Pines of Rome,NULL,MPEG audio file,Rock,90’s Music
+343,Communication Breakdown(2),Jimmy Page/John Bonham/John Paul Jones,161149,5261022,0.99,Respighi:Pines of Rome,NULL,MPEG audio file,Rock,Music
+344,Travelling Riverside Blues,Jimmy Page/Robert Johnson/Robert Plant,312032,10232581,0.99,Schubert: The Late String Quartets & String Quintet (3 CD's),NULL,MPEG audio file,Rock,Music
+344,Travelling Riverside Blues,Jimmy Page/Robert Johnson/Robert Plant,312032,10232581,0.99,Schubert: The Late String Quartets & String Quintet (3 CD's),NULL,MPEG audio file,Rock,90’s Music
+344,Travelling Riverside Blues,Jimmy Page/Robert Johnson/Robert Plant,312032,10232581,0.99,Schubert: The Late String Quartets & String Quintet (3 CD's),NULL,MPEG audio file,Rock,Music
+345,Whole Lotta Love,Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon,373394,12258175,0.99,Monteverdi: L'Orfeo,NULL,MPEG audio file,Rock,Music
+345,Whole Lotta Love,Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon,373394,12258175,0.99,Monteverdi: L'Orfeo,NULL,MPEG audio file,Rock,90’s Music
+345,Whole Lotta Love,Jimmy Page/John Bonham/John Paul Jones/Robert Plant/Willie Dixon,373394,12258175,0.99,Monteverdi: L'Orfeo,NULL,MPEG audio file,Rock,Music
+346,Somethin' Else,Bob Cochran/Sharon Sheeley,127869,4165650,0.99,Mozart: Chamber Music,NULL,MPEG audio file,Rock,Music
+346,Somethin' Else,Bob Cochran/Sharon Sheeley,127869,4165650,0.99,Mozart: Chamber Music,NULL,MPEG audio file,Rock,90’s Music
+346,Somethin' Else,Bob Cochran/Sharon Sheeley,127869,4165650,0.99,Mozart: Chamber Music,NULL,MPEG audio file,Rock,Music
+347,Communication Breakdown(3),Jimmy Page/John Bonham/John Paul Jones,185260,6041133,0.99,Koyaanisqatsi (Soundtrack from the Motion Picture),NULL,MPEG audio file,Rock,Music
+347,Communication Breakdown(3),Jimmy Page/John Bonham/John Paul Jones,185260,6041133,0.99,Koyaanisqatsi (Soundtrack from the Motion Picture),NULL,MPEG audio file,Rock,90’s Music
+347,Communication Breakdown(3),Jimmy Page/John Bonham/John Paul Jones,185260,6041133,0.99,Koyaanisqatsi (Soundtrack from the Motion Picture),NULL,MPEG audio file,Rock,Music
+348,I Can't Quit You Baby(2),Willie Dixon,380551,12377615,0.99,NULL,NULL,MPEG audio file,Rock,Music
+348,I Can't Quit You Baby(2),Willie Dixon,380551,12377615,0.99,NULL,NULL,MPEG audio file,Rock,90’s Music
+348,I Can't Quit You Baby(2),Willie Dixon,380551,12377615,0.99,NULL,NULL,MPEG audio file,Rock,Music
+349,You Shook Me(2),J B Lenoir/Willie Dixon,619467,20138673,0.99,NULL,NULL,MPEG audio file,Rock,Music
+349,You Shook Me(2),J B Lenoir/Willie Dixon,619467,20138673,0.99,NULL,NULL,MPEG audio file,Rock,90’s Music
+349,You Shook Me(2),J B Lenoir/Willie Dixon,619467,20138673,0.99,NULL,NULL,MPEG audio file,Rock,Music
+350,How Many More Times,Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant,711836,23092953,0.99,NULL,NULL,MPEG audio file,Rock,Music
+350,How Many More Times,Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant,711836,23092953,0.99,NULL,NULL,MPEG audio file,Rock,90’s Music
+350,How Many More Times,Chester Burnett/Jimmy Page/John Bonham/John Paul Jones/Robert Plant,711836,23092953,0.99,NULL,NULL,MPEG audio file,Rock,Music
+351,Debra Kadabra,Frank Zappa,234553,7649679,0.99,NULL,NULL,MPEG audio file,Rock,Music
+351,Debra Kadabra,Frank Zappa,234553,7649679,0.99,NULL,NULL,MPEG audio file,Rock,Music
+352,Carolina Hard-Core Ecstasy,Frank Zappa,359680,11731061,0.99,NULL,NULL,MPEG audio file,Rock,Music
+352,Carolina Hard-Core Ecstasy,Frank Zappa,359680,11731061,0.99,NULL,NULL,MPEG audio file,Rock,Music
+353,Sam With The Showing Scalp Flat Top,Don Van Vliet,171284,5572993,0.99,NULL,NULL,MPEG audio file,Rock,Music
+353,Sam With The Showing Scalp Flat Top,Don Van Vliet,171284,5572993,0.99,NULL,NULL,MPEG audio file,Rock,Music
+354,Poofter's Froth Wyoming Plans Ahead,Frank Zappa,183902,6007019,0.99,NULL,NULL,MPEG audio file,Rock,Music
+354,Poofter's Froth Wyoming Plans Ahead,Frank Zappa,183902,6007019,0.99,NULL,NULL,MPEG audio file,Rock,Music
+355,200 Years Old,Frank Zappa,272561,8912465,0.99,NULL,NULL,MPEG audio file,Rock,Music
+355,200 Years Old,Frank Zappa,272561,8912465,0.99,NULL,NULL,MPEG audio file,Rock,Music
+356,Cucamonga,Frank Zappa,144483,4728586,0.99,NULL,NULL,MPEG audio file,Rock,Music
+356,Cucamonga,Frank Zappa,144483,4728586,0.99,NULL,NULL,MPEG audio file,Rock,Music
+357,Advance Romance,Frank Zappa,677694,22080051,0.99,NULL,NULL,MPEG audio file,Rock,Music
+357,Advance Romance,Frank Zappa,677694,22080051,0.99,NULL,NULL,MPEG audio file,Rock,Music
+358,Man With The Woman Head,Don Van Vliet,88894,2922044,0.99,NULL,NULL,MPEG audio file,Rock,Music
+358,Man With The Woman Head,Don Van Vliet,88894,2922044,0.99,NULL,NULL,MPEG audio file,Rock,Music
+359,Muffin Man,Frank Zappa,332878,10891682,0.99,NULL,NULL,MPEG audio file,Rock,Music
+359,Muffin Man,Frank Zappa,332878,10891682,0.99,NULL,NULL,MPEG audio file,Rock,Music
+360,Vai-Vai 2001,NULL,276349,9402241,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+360,Vai-Vai 2001,NULL,276349,9402241,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+361,X-9 2001,NULL,273920,9310370,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+361,X-9 2001,NULL,273920,9310370,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+362,Gavioes 2001,NULL,282723,9616640,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+362,Gavioes 2001,NULL,282723,9616640,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+363,Nene 2001,NULL,284969,9694508,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+363,Nene 2001,NULL,284969,9694508,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+364,Rosas De Ouro 2001,NULL,284342,9721084,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+364,Rosas De Ouro 2001,NULL,284342,9721084,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+365,Mocidade Alegre 2001,NULL,282488,9599937,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+365,Mocidade Alegre 2001,NULL,282488,9599937,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+366,Camisa Verde 2001,NULL,283454,9633755,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+366,Camisa Verde 2001,NULL,283454,9633755,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+367,Leandro De Itaquera 2001,NULL,274808,9451845,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+367,Leandro De Itaquera 2001,NULL,274808,9451845,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+368,Tucuruvi 2001,NULL,287921,9883335,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+368,Tucuruvi 2001,NULL,287921,9883335,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+369,Aguia De Ouro 2001,NULL,284160,9698729,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+369,Aguia De Ouro 2001,NULL,284160,9698729,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+370,Ipiranga 2001,NULL,248293,8522591,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+370,Ipiranga 2001,NULL,248293,8522591,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+371,Morro Da Casa Verde 2001,NULL,284708,9718778,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+371,Morro Da Casa Verde 2001,NULL,284708,9718778,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+372,Perola Negra 2001,NULL,281626,9619196,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+372,Perola Negra 2001,NULL,281626,9619196,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+373,Sao Lucas 2001,NULL,296254,10020122,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+373,Sao Lucas 2001,NULL,296254,10020122,0.99,NULL,NULL,MPEG audio file,Soundtrack,Music
+374,Guanabara,Marcos Valle,247614,8499591,0.99,NULL,NULL,MPEG audio file,Latin,Music
+374,Guanabara,Marcos Valle,247614,8499591,0.99,NULL,NULL,MPEG audio file,Latin,Music
+375,Mas Que Nada,Jorge Ben,248398,8255254,0.99,NULL,NULL,MPEG audio file,Latin,Music
+375,Mas Que Nada,Jorge Ben,248398,8255254,0.99,NULL,NULL,MPEG audio file,Latin,Music
+376,Vôo Sobre o Horizonte,J.r.Bertami/Parana,225097,7528825,0.99,NULL,NULL,MPEG audio file,Latin,Music
+376,Vôo Sobre o Horizonte,J.r.Bertami/Parana,225097,7528825,0.99,NULL,NULL,MPEG audio file,Latin,Music
+377,A Paz,Donato/Gilberto Gil,263183,8619173,0.99,NULL,NULL,MPEG audio file,Latin,Music
+377,A Paz,Donato/Gilberto Gil,263183,8619173,0.99,NULL,NULL,MPEG audio file,Latin,Music
+378,Wave (Vou te Contar),Antonio Carlos Jobim,271647,9057557,0.99,NULL,NULL,MPEG audio file,Latin,Music
+378,Wave (Vou te Contar),Antonio Carlos Jobim,271647,9057557,0.99,NULL,NULL,MPEG audio file,Latin,Music
+379,Água de Beber,Antonio Carlos Jobim/Vinicius de Moraes,146677,4866476,0.99,NULL,NULL,MPEG audio file,Latin,Music
+379,Água de Beber,Antonio Carlos Jobim/Vinicius de Moraes,146677,4866476,0.99,NULL,NULL,MPEG audio file,Latin,Music
+380,Samba da Bençaco,Baden Powell/Vinicius de Moraes,282200,9440676,0.99,NULL,NULL,MPEG audio file,Latin,Music
+380,Samba da Bençaco,Baden Powell/Vinicius de Moraes,282200,9440676,0.99,NULL,NULL,MPEG audio file,Latin,Music
+381,Pode Parar,Jorge Vercilo/Jota Maranhao,179408,6046678,0.99,NULL,NULL,MPEG audio file,Latin,Music
+381,Pode Parar,Jorge Vercilo/Jota Maranhao,179408,6046678,0.99,NULL,NULL,MPEG audio file,Latin,Music
+382,Menino do Rio,Caetano Veloso,262713,8737489,0.99,NULL,NULL,MPEG audio file,Latin,Music
+382,Menino do Rio,Caetano Veloso,262713,8737489,0.99,NULL,NULL,MPEG audio file,Latin,Music
+383,Ando Meio Desligado,Caetano Veloso,195813,6547648,0.99,NULL,NULL,MPEG audio file,Latin,Music
+383,Ando Meio Desligado,Caetano Veloso,195813,6547648,0.99,NULL,NULL,MPEG audio file,Latin,Music
+384,Mistério da Raça,Luiz Melodia/Ricardo Augusto,184320,6191752,0.99,NULL,NULL,MPEG audio file,Latin,Music
+384,Mistério da Raça,Luiz Melodia/Ricardo Augusto,184320,6191752,0.99,NULL,NULL,MPEG audio file,Latin,Music
+385,All Star,Nando Reis,176326,5891697,0.99,NULL,NULL,MPEG audio file,Latin,Music
+385,All Star,Nando Reis,176326,5891697,0.99,NULL,NULL,MPEG audio file,Latin,Music
+386,Menina Bonita,Alexandre Brazil/Pedro Luis/Rodrigo Cabelo,237087,7938246,0.99,NULL,NULL,MPEG audio file,Latin,Music
+386,Menina Bonita,Alexandre Brazil/Pedro Luis/Rodrigo Cabelo,237087,7938246,0.99,NULL,NULL,MPEG audio file,Latin,Music
+387,Pescador de Ilusões,Macelo Yuka/O Rappa,245524,8267067,0.99,NULL,NULL,MPEG audio file,Latin,Music
+387,Pescador de Ilusões,Macelo Yuka/O Rappa,245524,8267067,0.99,NULL,NULL,MPEG audio file,Latin,Music
+388,À Vontade (Live Mix),Bombom/Ed Motta,180636,5972430,0.99,NULL,NULL,MPEG audio file,Latin,Music
+388,À Vontade (Live Mix),Bombom/Ed Motta,180636,5972430,0.99,NULL,NULL,MPEG audio file,Latin,Music
+389,Maria Fumaça,Luiz Carlos/Oberdan,141008,4743149,0.99,NULL,NULL,MPEG audio file,Latin,Music
+389,Maria Fumaça,Luiz Carlos/Oberdan,141008,4743149,0.99,NULL,NULL,MPEG audio file,Latin,Music
+390,Sambassim (dj patife remix),Alba Carvalho/Fernando Porto,213655,7243166,0.99,NULL,NULL,MPEG audio file,Latin,Music
+390,Sambassim (dj patife remix),Alba Carvalho/Fernando Porto,213655,7243166,0.99,NULL,NULL,MPEG audio file,Latin,Music
+391,Garota De Ipanema,Vários,279536,9141343,0.99,NULL,NULL,MPEG audio file,Latin,Music
+391,Garota De Ipanema,Vários,279536,9141343,0.99,NULL,NULL,MPEG audio file,Latin,Music
+391,Garota De Ipanema,Vários,279536,9141343,0.99,NULL,NULL,MPEG audio file,Latin,Brazilian Music
+392,Tim Tim Por Tim Tim,Vários,213237,7143328,0.99,NULL,NULL,MPEG audio file,Latin,Music
+392,Tim Tim Por Tim Tim,Vários,213237,7143328,0.99,NULL,NULL,MPEG audio file,Latin,Music
+393,Tarde Em Itapoã,Vários,313704,10344491,0.99,NULL,NULL,MPEG audio file,Latin,Music
+393,Tarde Em Itapoã,Vários,313704,10344491,0.99,NULL,NULL,MPEG audio file,Latin,Music
+393,Tarde Em Itapoã,Vários,313704,10344491,0.99,NULL,NULL,MPEG audio file,Latin,Brazilian Music
+394,Tanto Tempo,Vários,170292,5572240,0.99,NULL,NULL,MPEG audio file,Latin,Music
+394,Tanto Tempo,Vários,170292,5572240,0.99,NULL,NULL,MPEG audio file,Latin,Music
+395,Eu Vim Da Bahia - Live,Vários,157988,5115428,0.99,NULL,NULL,MPEG audio file,Latin,Music
+395,Eu Vim Da Bahia - Live,Vários,157988,5115428,0.99,NULL,NULL,MPEG audio file,Latin,Music
+396,Alô Alô Marciano,Vários,238106,8013065,0.99,NULL,NULL,MPEG audio file,Latin,Music
+396,Alô Alô Marciano,Vários,238106,8013065,0.99,NULL,NULL,MPEG audio file,Latin,Music
+397,Linha Do Horizonte,Vários,279484,9275929,0.99,NULL,NULL,MPEG audio file,Latin,Music
+397,Linha Do Horizonte,Vários,279484,9275929,0.99,NULL,NULL,MPEG audio file,Latin,Music
+398,Only A Dream In Rio,Vários,371356,12192989,0.99,NULL,NULL,MPEG audio file,Latin,Music
+398,Only A Dream In Rio,Vários,371356,12192989,0.99,NULL,NULL,MPEG audio file,Latin,Music
+399,Abrir A Porta,Vários,271960,8991141,0.99,NULL,NULL,MPEG audio file,Latin,Music
+399,Abrir A Porta,Vários,271960,8991141,0.99,NULL,NULL,MPEG audio file,Latin,Music
+400,Alice,Vários,165982,5594341,0.99,NULL,NULL,MPEG audio file,Latin,Music
+400,Alice,Vários,165982,5594341,0.99,NULL,NULL,MPEG audio file,Latin,Music
+401,Momentos Que Marcam,Vários,280137,9313740,0.99,NULL,NULL,MPEG audio file,Latin,Music
+401,Momentos Que Marcam,Vários,280137,9313740,0.99,NULL,NULL,MPEG audio file,Latin,Music
+402,Um Jantar Pra Dois,Vários,237714,7819755,0.99,NULL,NULL,MPEG audio file,Latin,Music
+402,Um Jantar Pra Dois,Vários,237714,7819755,0.99,NULL,NULL,MPEG audio file,Latin,Music
+403,Bumbo Da Mangueira,Vários,270158,9073350,0.99,NULL,NULL,MPEG audio file,Latin,Music
+403,Bumbo Da Mangueira,Vários,270158,9073350,0.99,NULL,NULL,MPEG audio file,Latin,Music
+404,Mr Funk Samba,Vários,213890,7102545,0.99,NULL,NULL,MPEG audio file,Latin,Music
+404,Mr Funk Samba,Vários,213890,7102545,0.99,NULL,NULL,MPEG audio file,Latin,Music
+405,Santo Antonio,Vários,162716,5492069,0.99,NULL,NULL,MPEG audio file,Latin,Music
+405,Santo Antonio,Vários,162716,5492069,0.99,NULL,NULL,MPEG audio file,Latin,Music
+406,Por Você,Vários,205557,6792493,0.99,NULL,NULL,MPEG audio file,Latin,Music

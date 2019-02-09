@@ -1,3 +1,4 @@
+# This script will join all the tanles relating to a track into one
 SELECT `track`.`TrackId`, `track`.`Name`, `track`.`AlbumId`, `track`.`MediaTypeId`, `track`.`GenreId`, `track`.`Composer`, `track`.`Milliseconds`, `track`.`Bytes`, `track`.`UnitPrice`,
 `album`.`AlbumId`, `album`.`Title`, `album`.`ArtistId`,
 `artist`.`ArtistId`, `artist`.`Name`,
