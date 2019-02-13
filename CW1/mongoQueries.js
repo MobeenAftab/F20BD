@@ -7,7 +7,7 @@ db.getCollection("customers").aggregate({
 		foreignField: 'EmployeeId',
 		as: 'SupportEmployee'
 	}
-})
+}).pretty()
 
 
 // Get the total ammount each CustomerId has spent on the web application
@@ -20,7 +20,7 @@ db.getCollection("customers").aggregate({
 	}
 }, {
 	$sort: {
-		TotalBill: 1
+		_id: 1
 	}
 })
 

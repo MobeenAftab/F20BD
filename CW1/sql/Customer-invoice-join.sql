@@ -21,11 +21,11 @@ SELECT `customer`.`CustomerId`,
     `invoice`.`BillingPostalCode`,
     `invoice`.`Total`,
     #`invoiceline`.`InvoiceLineId`,
-    `invoiceline`.`InvoiceId`,
+    #`invoiceline`.`InvoiceId`,
     `invoiceline`.`TrackId`,
     `invoiceline`.`UnitPrice`,
     `invoiceline`.`Quantity`
 from customer
 left join invoice on invoice.CustomerId=customer.CustomerId
-left join invoiceline on invoiceline.InvoiceLineId = invoice.InvoiceId
+left join invoiceline on invoiceline.InvoiceId=invoice.InvoiceId
 order by customer.CustomerId;
