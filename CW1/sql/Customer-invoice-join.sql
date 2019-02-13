@@ -1,5 +1,6 @@
-# This script will join customer, invoice and invoiceline
-SELECT `customer`.`CustomerId`,
+-- This script will join customer, invoice and invoiceline into one table
+SELECT
+    `customer`.`CustomerId`,
 	`customer`.`FirstName`,
     `customer`.`LastName`,
     `customer`.`Company`,
@@ -24,8 +25,9 @@ SELECT `customer`.`CustomerId`,
     #`invoiceline`.`InvoiceId`,
     `invoiceline`.`TrackId`,
     `invoiceline`.`UnitPrice`,
-    `invoiceline`.`Quantity`
+    `invoiceline`.`Quantity`,
 from customer
 left join invoice on invoice.CustomerId=customer.CustomerId
 left join invoiceline on invoiceline.InvoiceId=invoice.InvoiceId
+where customer.CustomerId=1
 order by customer.CustomerId;

@@ -1,5 +1,9 @@
-# This script will join all the tanles relating to a track into one
-SELECT `track`.`TrackId`, `track`.`Name`, `track`.`AlbumId`, `track`.`MediaTypeId`, `track`.`GenreId`, `track`.`Composer`, `track`.`Milliseconds`, `track`.`Bytes`, `track`.`UnitPrice`,
+-- This script will join all the tables relating to a track into one
+SELECT `track`.`TrackId`, `track`.`Name`,
+`track`.`AlbumId`, `track`.`MediaTypeId`, 
+`track`.`GenreId`, `track`.`Composer`,
+`track`.`Milliseconds`, `track`.`Bytes`,
+`track`.`UnitPrice`,
 `album`.`AlbumId`, `album`.`Title`, `album`.`ArtistId`,
 `artist`.`ArtistId`, `artist`.`Name`,
 `mediatype`.`MediaTypeId`, `mediatype`.`Name`,
@@ -14,6 +18,3 @@ join genre on track.TrackId=genre.GenreId
 join playlisttrack on playlisttrack.PlaylistId=track.TrackId
 join playlist on playlist.PlaylistId=playlisttrack.PlaylistId
 group by track.TrackId;
-;
-# Can remove duplicating ID's or FK ID's and keep value
-# Join the playlist tracks togather
