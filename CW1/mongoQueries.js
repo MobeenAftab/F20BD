@@ -1,5 +1,5 @@
 // Get the employee associated with a customer using left outer join
-/*
+
 db.getCollection("customers").aggregate({
 	$lookup: {
 		from: 'employees',
@@ -8,16 +8,42 @@ db.getCollection("customers").aggregate({
 		as: 'SupportEmployee'
 	}
 })
-*/
+
 
 // Get the total ammount each CustomerId has spent on the web application
-db.getCollection("customers").aggregate(
-	{
-		$group: {
-			_id: '$CustomerId',
-			TotalBill: { $sum: '$Total'}
+db.getCollection("customers").aggregate({
+	$group: {
+		_id: '$CustomerId',
+		TotalBill: {
+			$sum: '$Total'
+		}
+	}
+}, {
+	$sort: {
+		TotalBill: 1
+	}
+})
+
+db.getCollection("customers").aggregate([{
+		$lookup: {
+			from: 'tracks',
+			localField: 'TrackId',
+			foreignField: 'TrackId',
+			as: 'NewTrack'
 		}
 	},
-	{ $sort: { TotalBill: 1 } }
-)
-
+	{
+		$replaceRoot: {
+			newRoot: {
+				$mergeObjects: [{
+					$arrayElemAt: ['$NewTrack', 0]
+				}, '$$ROOT']
+			}
+		}
+	},
+	{
+		$project: {
+			NewTrack: 0
+		}
+	}
+])
