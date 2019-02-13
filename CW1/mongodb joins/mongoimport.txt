@@ -5,4 +5,4 @@ mongoimport -d chinook -c customers --file customer-export.csv --headerline --ty
 mongoimport -d chinook -c employees --file customer-export.csv --headerline --type csv
 
 // Import tracks csv
-mongoimport -d chinook -c tracks --file tracks.csv --headerline --type csv
+mongoimport -d chinook -c tracks --file track-export.csv --headerline --type csv
