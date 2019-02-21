@@ -35,22 +35,23 @@ db.getCollection("customers").aggregate([{
 			as: 'TracksOwned'
 		}
 	},
-	// {
-	// 	$replaceRoot: {
-	// 		newRoot: {
-	// 			$mergeObjects: [{
-	// 				$arrayElemAt: ["$TracksOwned", 0]
-	// 			}, "$$ROOT"]
-	// 		}
-	// 	}
-	// },
-	// {
-	// 	// $project: {
-	// 	// 	TracksOwned: 0
-	// 	// }
-	// }
+	{
+		$replaceRoot: {
+			newRoot: {
+				$mergeObjects: [{
+					$arrayElemAt: ["$TracksOwned", 0]
+				}, "$$ROOT"]
+			}
+		}
+	},
+
 ]).pretty()
 
+	// {
+	// 	$project: {
+	// 		TracksOwned: null
+	// 	}
+	// }
 
 db.customers.aggregate([{
 	$lookup: {
@@ -77,4 +78,23 @@ db.customers.aggregate([{
 		as: "Tracks"
 	}
 }])
+
+db.customers.find({}, {
+	CustomerId: 1,
+	TrackId: 1,
+	_id: 0
+})
+
+db.customers.count({
+	Country: {
+		$exists: true
+	}
+})
+
+//https://www.mongodb.com/blog/post/mongodb-vs-sql-day-14-queries
+
+db.customers.aggregate([
+	{'$group': {_id: '$Country',
+	count: {$sum:1}}}
+])
 
