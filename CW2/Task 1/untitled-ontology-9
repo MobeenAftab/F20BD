@@ -1,0 +1,737 @@
+@prefix : <http://www.semanticweb.org/mma10/ontologies/2019/2/untitled-ontology-9#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@base <http://www.semanticweb.org/mma10/ontologies/2019/2/untitled-ontology-9> .
+
+<http://www.semanticweb.org/mma10/ontologies/2019/2/untitled-ontology-9> rdf:type owl:Ontology .
+
+#################################################################
+#    Object Properties
+#################################################################
+
+###  https://data.nasa.gov/ontologies/atmonto/general#hasFirstItem
+<https://data.nasa.gov/ontologies/atmonto/general#hasFirstItem> rdf:type owl:ObjectProperty ;
+                                                                rdfs:subPropertyOf <https://data.nasa.gov/ontologies/atmonto/general#hasSequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#hasLastItem
+<https://data.nasa.gov/ontologies/atmonto/general#hasLastItem> rdf:type owl:ObjectProperty ;
+                                                               rdfs:subPropertyOf <https://data.nasa.gov/ontologies/atmonto/general#hasSequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#hasSequencedItem
+<https://data.nasa.gov/ontologies/atmonto/general#hasSequencedItem> rdf:type owl:ObjectProperty .
+
+
+#################################################################
+#    Classes
+#################################################################
+
+###  http://www.w3.org/2002/07/owl#DatatypeProperty
+owl:DatatypeProperty rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AbsoluteFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#AbsoluteFix> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationFix> ,
+                                                                           <https://data.nasa.gov/ontologies/atmonto/general#PointLocation> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#ActualFlightRoute
+<https://data.nasa.gov/ontologies/atmonto/ATM#ActualFlightRoute> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AircraftCapacity
+<https://data.nasa.gov/ontologies/atmonto/ATM#AircraftCapacity> rdf:type owl:Class ;
+                                                                rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlowCapacity> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlow
+<https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlow> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlowCapacity> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlowCapacity
+<https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlowCapacity> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#IntervalData> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AircraftTrackPoint
+<https://data.nasa.gov/ontologies/atmonto/ATM#AircraftTrackPoint> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AirportFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#AirportFix> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#VORfix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AirspaceFlowProgramTMI
+<https://data.nasa.gov/ontologies/atmonto/ATM#AirspaceFlowProgramTMI> rdf:type owl:Class ;
+                                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#AirspaceRouteSegment
+<https://data.nasa.gov/ontologies/atmonto/ATM#AirspaceRouteSegment> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationSubPath> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#FRDfix
+<https://data.nasa.gov/ontologies/atmonto/ATM#FRDfix> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#RelativeFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#FlightPlanSegment
+<https://data.nasa.gov/ontologies/atmonto/ATM#FlightPlanSegment> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationSubPath> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#GPSfix
+<https://data.nasa.gov/ontologies/atmonto/ATM#GPSfix> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#LatLonFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#GroundDelayProgramTMI
+<https://data.nasa.gov/ontologies/atmonto/ATM#GroundDelayProgramTMI> rdf:type owl:Class ;
+                                                                     rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#GroundStopTMI
+<https://data.nasa.gov/ontologies/atmonto/ATM#GroundStopTMI> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#IntersectionFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#IntersectionFix> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AbsoluteFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#LatLonFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#LatLonFix> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AbsoluteFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#MeterFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#MeterFix> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AbsoluteFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#MilesInTrailTMI
+<https://data.nasa.gov/ontologies/atmonto/ATM#MilesInTrailTMI> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NDBfix
+<https://data.nasa.gov/ontologies/atmonto/ATM#NDBfix> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavaidFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NRSfix
+<https://data.nasa.gov/ontologies/atmonto/ATM#NRSfix> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#LatLonFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NavElementContainer
+<https://data.nasa.gov/ontologies/atmonto/ATM#NavElementContainer> rdf:type owl:Class ;
+                                                                   rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NavaidFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#NavaidFix> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AbsoluteFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement
+<https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TFMcontrolElement> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NavigationFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#NavigationFix> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NavigationPath
+<https://data.nasa.gov/ontologies/atmonto/ATM#NavigationPath> rdf:type owl:Class ;
+                                                              rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement> ,
+                                                                              <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NavigationSubPath
+<https://data.nasa.gov/ontologies/atmonto/ATM#NavigationSubPath> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement> ,
+                                                                                 <https://data.nasa.gov/ontologies/atmonto/general#SubSequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#NumericParameterContainer
+<https://data.nasa.gov/ontologies/atmonto/ATM#NumericParameterContainer> rdf:type owl:Class ;
+                                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#PlannedFlightRoute
+<https://data.nasa.gov/ontologies/atmonto/ATM#PlannedFlightRoute> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationPath> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#PopupFactor
+<https://data.nasa.gov/ontologies/atmonto/ATM#PopupFactor> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#IntegerParameter> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#PopupFactorContainer
+<https://data.nasa.gov/ontologies/atmonto/ATM#PopupFactorContainer> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NumericParameterContainer> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#PopupFactorSequence
+<https://data.nasa.gov/ontologies/atmonto/ATM#PopupFactorSequence> rdf:type owl:Class ;
+                                                                   rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#ProgramArrivalRate
+<https://data.nasa.gov/ontologies/atmonto/ATM#ProgramArrivalRate> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#IntegerParameter> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#ProgramArrivalRateContainer
+<https://data.nasa.gov/ontologies/atmonto/ATM#ProgramArrivalRateContainer> rdf:type owl:Class ;
+                                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NumericParameterContainer> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#ProgramArrivalRateSequence
+<https://data.nasa.gov/ontologies/atmonto/ATM#ProgramArrivalRateSequence> rdf:type owl:Class ;
+                                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#ReRouteTMI
+<https://data.nasa.gov/ontologies/atmonto/ATM#ReRouteTMI> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#RelativeFix
+<https://data.nasa.gov/ontologies/atmonto/ATM#RelativeFix> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#SIDSTARtraverse
+<https://data.nasa.gov/ontologies/atmonto/ATM#SIDSTARtraverse> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#TACANfix
+<https://data.nasa.gov/ontologies/atmonto/ATM#TACANfix> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavaidFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#TFMcontrolElement
+<https://data.nasa.gov/ontologies/atmonto/ATM#TFMcontrolElement> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#Taxipath
+<https://data.nasa.gov/ontologies/atmonto/ATM#Taxipath> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative
+<https://data.nasa.gov/ontologies/atmonto/ATM#TrafficManagementInitiative> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/ATM#VORfix
+<https://data.nasa.gov/ontologies/atmonto/ATM#VORfix> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavaidFix> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#ARTCC
+<https://data.nasa.gov/ontologies/atmonto/NAS#ARTCC> rdf:type owl:Class ;
+                                                     rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> ,
+                                                                     <https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#ARTCCtier
+<https://data.nasa.gov/ontologies/atmonto/NAS#ARTCCtier> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#ATCSCC
+<https://data.nasa.gov/ontologies/atmonto/NAS#ATCSCC> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#ATCT
+<https://data.nasa.gov/ontologies/atmonto/NAS#ATCT> rdf:type owl:Class ;
+                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> ,
+                                                                    <https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirCarrier
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirCarrier> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AviationServiceProvider> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AircraftEngineManufacturer
+<https://data.nasa.gov/ontologies/atmonto/NAS#AircraftEngineManufacturer> rdf:type owl:Class ;
+                                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AviationIndustryManufacturer> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirframeManufacturer
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirframeManufacturer> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AviationIndustryManufacturer> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#Airport
+<https://data.nasa.gov/ontologies/atmonto/NAS#Airport> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationElement> ,
+                                                                       <https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility> ,
+                                                                       <https://data.nasa.gov/ontologies/atmonto/data#METARreportingStation> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirportRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirportRoute> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTARroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirportServiceVehicle
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirportServiceVehicle> rdf:type owl:Class ;
+                                                                     rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> rdf:type owl:Class ;
+                                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#TFMcontrolElement> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceLayer
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceLayer> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceRoute> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#NavigationPath> ,
+                                                                             <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AviationIndustryManufacturer
+<https://data.nasa.gov/ontologies/atmonto/NAS#AviationIndustryManufacturer> rdf:type owl:Class ;
+                                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AviationServiceProvider> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#AviationServiceProvider
+<https://data.nasa.gov/ontologies/atmonto/NAS#AviationServiceProvider> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#CONUSairport
+<https://data.nasa.gov/ontologies/atmonto/NAS#CONUSairport> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#USairport> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#CanadianAirport
+<https://data.nasa.gov/ontologies/atmonto/NAS#CanadianAirport> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#InternationalAirport> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#CommonRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#CommonRoute> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTARroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#DeicingPad
+<https://data.nasa.gov/ontologies/atmonto/NAS#DeicingPad> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#DeicingQueue
+<https://data.nasa.gov/ontologies/atmonto/NAS#DeicingQueue> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#DeicingTruck
+<https://data.nasa.gov/ontologies/atmonto/NAS#DeicingTruck> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportServiceVehicle> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#FederalAirway
+<https://data.nasa.gov/ontologies/atmonto/NAS#FederalAirway> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceRoute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#Gate
+<https://data.nasa.gov/ontologies/atmonto/NAS#Gate> rdf:type owl:Class ;
+                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#GovernmentAviationServiceProvider
+<https://data.nasa.gov/ontologies/atmonto/NAS#GovernmentAviationServiceProvider> rdf:type owl:Class ;
+                                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AviationServiceProvider> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#InternationalAirport
+<https://data.nasa.gov/ontologies/atmonto/NAS#InternationalAirport> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#Airport> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#JetRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#JetRoute> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#VORroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility
+<https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#NonCONUSairport
+<https://data.nasa.gov/ontologies/atmonto/NAS#NonCONUSairport> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#USairport> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#OperationalRunway
+<https://data.nasa.gov/ontologies/atmonto/NAS#OperationalRunway> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#PhysicalRunway
+<https://data.nasa.gov/ontologies/atmonto/NAS#PhysicalRunway> rdf:type owl:Class ;
+                                                              rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#QRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#QRoute> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#RNAVroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#RNAVroute
+<https://data.nasa.gov/ontologies/atmonto/NAS#RNAVroute> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#FederalAirway> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#RadialRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#RadialRoute> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceRoute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#RampTower
+<https://data.nasa.gov/ontologies/atmonto/NAS#RampTower> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#RefuelingTruck
+<https://data.nasa.gov/ontologies/atmonto/NAS#RefuelingTruck> rdf:type owl:Class ;
+                                                              rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportServiceVehicle> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#RunwayVisibleRangeMeasurement
+<https://data.nasa.gov/ontologies/atmonto/NAS#RunwayVisibleRangeMeasurement> rdf:type owl:Class ;
+                                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#IntervalData> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#SID
+<https://data.nasa.gov/ontologies/atmonto/NAS#SID> rdf:type owl:Class ;
+                                                   rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTAR> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTAR
+<https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTAR> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTARroute
+<https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTARroute> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceRoute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#STAR
+<https://data.nasa.gov/ontologies/atmonto/NAS#STAR> rdf:type owl:Class ;
+                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTAR> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#Sector
+<https://data.nasa.gov/ontologies/atmonto/NAS#Sector> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#StandAloneWeatherStation
+<https://data.nasa.gov/ontologies/atmonto/NAS#StandAloneWeatherStation> rdf:type owl:Class ;
+                                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#METARreportingStation> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#TRACON
+<https://data.nasa.gov/ontologies/atmonto/NAS#TRACON> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirspaceInfrastructureComponent> ,
+                                                                      <https://data.nasa.gov/ontologies/atmonto/NAS#NASfacility> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#TRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#TRoute> rdf:type owl:Class ;
+                                                      rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#RNAVroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#Taxiway
+<https://data.nasa.gov/ontologies/atmonto/NAS#Taxiway> rdf:type owl:Class ;
+                                                       rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> ,
+                                                                       <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#Terminal
+<https://data.nasa.gov/ontologies/atmonto/NAS#Terminal> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#AirportInfrastructureComponent> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#TransitionRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#TransitionRoute> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#SIDSTARroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#USairport
+<https://data.nasa.gov/ontologies/atmonto/NAS#USairport> rdf:type owl:Class ;
+                                                         rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#Airport> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#VORroute
+<https://data.nasa.gov/ontologies/atmonto/NAS#VORroute> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#FederalAirway> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/NAS#VictorRoute
+<https://data.nasa.gov/ontologies/atmonto/NAS#VictorRoute> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/NAS#VORroute> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#ASPMmeteorologicalCondition
+<https://data.nasa.gov/ontologies/atmonto/data#ASPMmeteorologicalCondition> rdf:type owl:Class ;
+                                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MeteorologicalCondition> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#AirportData
+<https://data.nasa.gov/ontologies/atmonto/data#AirportData> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#IntervalData> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#CloudLayer
+<https://data.nasa.gov/ontologies/atmonto/data#CloudLayer> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#CloudLayerProfile
+<https://data.nasa.gov/ontologies/atmonto/data#CloudLayerProfile> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#FixCapacity
+<https://data.nasa.gov/ontologies/atmonto/data#FixCapacity> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AircraftCapacity> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#FixFlow
+<https://data.nasa.gov/ontologies/atmonto/data#FixFlow> rdf:type owl:Class ;
+                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlow> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#IntervalData
+<https://data.nasa.gov/ontologies/atmonto/data#IntervalData> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#METARreport
+<https://data.nasa.gov/ontologies/atmonto/data#METARreport> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MeteorologicalCondition> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#METARreportingStation
+<https://data.nasa.gov/ontologies/atmonto/data#METARreportingStation> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#MetCondition
+<https://data.nasa.gov/ontologies/atmonto/data#MetCondition> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#MeteorologicalCondition
+<https://data.nasa.gov/ontologies/atmonto/data#MeteorologicalCondition> rdf:type owl:Class ;
+                                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#IntervalData> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#RunwayStatusData
+<https://data.nasa.gov/ontologies/atmonto/data#RunwayStatusData> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#IntervalData> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#SectorCapacity
+<https://data.nasa.gov/ontologies/atmonto/data#SectorCapacity> rdf:type owl:Class ;
+                                                               rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AircraftCapacity> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#SectorFlow
+<https://data.nasa.gov/ontologies/atmonto/data#SectorFlow> rdf:type owl:Class ;
+                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/ATM#AircraftFlow> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#SkyCondition
+<https://data.nasa.gov/ontologies/atmonto/data#SkyCondition> rdf:type owl:Class ;
+                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MetCondition> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#SurfaceWindCondition
+<https://data.nasa.gov/ontologies/atmonto/data#SurfaceWindCondition> rdf:type owl:Class ;
+                                                                     rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MetCondition> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#TAFmeteorologicalCondition
+<https://data.nasa.gov/ontologies/atmonto/data#TAFmeteorologicalCondition> rdf:type owl:Class ;
+                                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MeteorologicalCondition> ,
+                                                                                           <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#TAFreport
+<https://data.nasa.gov/ontologies/atmonto/data#TAFreport> rdf:type owl:Class ;
+                                                          rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#IntervalData> ,
+                                                                          <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#VisibilityCondition
+<https://data.nasa.gov/ontologies/atmonto/data#VisibilityCondition> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MetCondition> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#WITIproperty
+<https://data.nasa.gov/ontologies/atmonto/data#WITIproperty> rdf:type owl:Class ;
+                                                             rdfs:subClassOf owl:DatatypeProperty .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/data#WeatherCondition
+<https://data.nasa.gov/ontologies/atmonto/data#WeatherCondition> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/data#MetCondition> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#Aircraft
+<https://data.nasa.gov/ontologies/atmonto/equipment#Aircraft> rdf:type owl:Class ;
+                                                              rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#DecomposableSystem> ,
+                                                                              <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#AircraftCommunicationSystem
+<https://data.nasa.gov/ontologies/atmonto/equipment#AircraftCommunicationSystem> rdf:type owl:Class ;
+                                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#AircraftSubsystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#AircraftEngine
+<https://data.nasa.gov/ontologies/atmonto/equipment#AircraftEngine> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#AircraftSubsystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#AircraftNavigationSystem
+<https://data.nasa.gov/ontologies/atmonto/equipment#AircraftNavigationSystem> rdf:type owl:Class ;
+                                                                              rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#AircraftSubsystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#AircraftSubsystem
+<https://data.nasa.gov/ontologies/atmonto/equipment#AircraftSubsystem> rdf:type owl:Class ;
+                                                                       rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#DecomposableSystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#BallBearing
+<https://data.nasa.gov/ontologies/atmonto/equipment#BallBearing> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#UnitAssembly> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#DecomposableSystem
+<https://data.nasa.gov/ontologies/atmonto/equipment#DecomposableSystem> rdf:type owl:Class ;
+                                                                        rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#EngineeredSystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#ElectricalPowerSystem
+<https://data.nasa.gov/ontologies/atmonto/equipment#ElectricalPowerSystem> rdf:type owl:Class ;
+                                                                           rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#AircraftSubsystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#EngineeredSystem
+<https://data.nasa.gov/ontologies/atmonto/equipment#EngineeredSystem> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#NavigationAid
+<https://data.nasa.gov/ontologies/atmonto/equipment#NavigationAid> rdf:type owl:Class ;
+                                                                   rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#DecomposableSystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/equipment#UnitAssembly
+<https://data.nasa.gov/ontologies/atmonto/equipment#UnitAssembly> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/equipment#EngineeredSystem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#CircularRegion
+<https://data.nasa.gov/ontologies/atmonto/general#CircularRegion> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Region2D> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#FloatParameter
+<https://data.nasa.gov/ontologies/atmonto/general#FloatParameter> rdf:type owl:Class ;
+                                                                  rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#NumericParameter> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#GeographicRegion
+<https://data.nasa.gov/ontologies/atmonto/general#GeographicRegion> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Location> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#IntegerParameter
+<https://data.nasa.gov/ontologies/atmonto/general#IntegerParameter> rdf:type owl:Class ;
+                                                                    rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#NumericParameter> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#Location
+<https://data.nasa.gov/ontologies/atmonto/general#Location> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#NumericParameter
+<https://data.nasa.gov/ontologies/atmonto/general#NumericParameter> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#PointLocation
+<https://data.nasa.gov/ontologies/atmonto/general#PointLocation> rdf:type owl:Class ;
+                                                                 rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Location> ,
+                                                                                 <https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#PolygonBoundary
+<https://data.nasa.gov/ontologies/atmonto/general#PolygonBoundary> rdf:type owl:Class ;
+                                                                   rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Sequence> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#Polygonal2DRegion
+<https://data.nasa.gov/ontologies/atmonto/general#Polygonal2DRegion> rdf:type owl:Class ;
+                                                                     rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Region2D> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#Region2D
+<https://data.nasa.gov/ontologies/atmonto/general#Region2D> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#GeographicRegion> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#Region3D
+<https://data.nasa.gov/ontologies/atmonto/general#Region3D> rdf:type owl:Class ;
+                                                            rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#GeographicRegion> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#Sequence
+<https://data.nasa.gov/ontologies/atmonto/general#Sequence> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#SequencedItem
+<https://data.nasa.gov/ontologies/atmonto/general#SequencedItem> rdf:type owl:Class .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#ShearSidedPolygonalVolume
+<https://data.nasa.gov/ontologies/atmonto/general#ShearSidedPolygonalVolume> rdf:type owl:Class ;
+                                                                             rdfs:subClassOf <https://data.nasa.gov/ontologies/atmonto/general#Region3D> .
+
+
+###  https://data.nasa.gov/ontologies/atmonto/general#SubSequence
+<https://data.nasa.gov/ontologies/atmonto/general#SubSequence> rdf:type owl:Class .
+
+
+###  Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi

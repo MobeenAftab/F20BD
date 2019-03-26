@@ -1,0 +1,80 @@
+[PrefixDeclaration]
+:		https://example.com/nasa#
+dc:		http://purl.org/dc/elements/1.1/
+atm:		https://data.nasa.gov/ontologies/atmonto/ATM#
+eqp:		https://data.nasa.gov/ontologies/atmonto/equipment#
+gen:		https://data.nasa.gov/ontologies/atmonto/general#
+nas:		https://data.nasa.gov/ontologies/atmonto/NAS#
+owl:		http://www.w3.org/2002/07/owl#
+rdf:		http://www.w3.org/1999/02/22-rdf-syntax-ns#
+xml:		http://www.w3.org/XML/1998/namespace
+xsd:		http://www.w3.org/2001/XMLSchema#
+data:		https://data.nasa.gov/ontologies/atmonto/data#
+rdfs:		http://www.w3.org/2000/01/rdf-schema#
+dcterms:		http://purl.org/dc/terms/
+
+[SourceDeclaration]
+sourceUri	datasource1
+connectionUrl	jdbc:mysql://mysql-server-1.macs.hw.ac.uk/movielens
+username	mma10
+password	76zeSELZXi
+driverClass	com.mysql.jdbc.Driver
+
+[MappingDeclaration] @collection [[
+mappingId	urn:Airport Name
+target		nas:airport{apid}; nas:airportName {name}^^xsd:string . 
+source		SELECT apid, name FROM airports WHERE name IS NOT NULL AND name != ''
+
+mappingId	urn:Airport iata
+target		nas:airport{apid}; nas:iataAirportCode {iata}^^xsd:string . 
+source		SELECT apid, iata FROM airports WHERE iata IS NOT NULL AND iata != ''
+
+mappingId	urn:Airport icao
+target		nas:airport{apid}; nas:icaoAirportCode {icao}^^xsd:string . 
+source		SELECT apid, icao FROM airports WHERE icao IS NOT NULL AND icao != ''
+
+mappingId	urn:Airport Elevation
+target		nas:airport{apid}; gen:altitude {elevation}^^xsd:double . 
+source		SELECT apid, elevation FROM airports WHERE elevation IS NOT NULL AND elevation != ''
+
+mappingId	urn:Airport Long
+target		nas:airport{apid}; gen:longitude {x}^^xsd:double . 
+source		SELECT apid, x FROM airports WHERE x IS NOT NULL AND x != ''
+
+mappingId	urn:Airport Lat
+target		nas:airport{apid}; gen:latitude {y}^^xsd:double . 
+source		SELECT apid, y FROM airports WHERE y IS NOT NULL AND y != ''
+
+mappingId	urn:Airline Name
+target		nas:aircarrier{alid}; nas:airCarrierName {name}^^xsd:string . 
+source		select alid, name from airlines where name IS NOT NULL AND name != ''
+
+mappingId	urn:Airline iata
+target		nas:aircarrier{alid}; nas:iataCarrierCode {iata}^^xsd:string . 
+source		SELECT alid, iata FROM airlines WHERE iata IS NOT NULL AND iata != '' AND alid >-1
+
+mappingId	urn:Airline icao
+target		nas:aircarrier{alid}; nas:icaoCarrierCode {icao}^^xsd:string . 
+source		SELECT alid, icao FROM airlines WHERE icao IS NOT NULL AND icao != ''
+
+mappingId	urn:Airline Callsign
+target		nas:aircarrier{alid}; nas:airlineCallsign {callsign}^^xsd:string . 
+source		SELECT alid, callsign FROM `airlines` WHERE `callsign`IS NOT NULL AND `callsign` != ''
+
+mappingId	urn:Airline Country of Registery
+target		nas:aircarrier{alid}; nas:countryOfRegistry {country}^^xsd:string . 
+source		select alid, country from airlines where country is not null and country != ''
+
+mappingId	urn:Airline Alias
+target		nas:aircarrier{alid}; nas:airCarrierAlias {alias}^^xsd:string . 
+source		SELECT alid, alias FROM `airlines` WHERE `alias` IS NOT NULL AND alias != ''
+
+mappingId	Airport
+target		nas:airport{apid} a nas:Airport . 
+source		select apid from airports
+
+mappingId	urn:AirCarrier
+target		nas:aircarrier{alid} a nas:AirCarrier . 
+source		select alid from airlines
+]]
+
